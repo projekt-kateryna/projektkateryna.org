@@ -1,4 +1,7 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://projektkateryna.org/'
 languageCode = 'en-us'
 title = 'Projekt Kateryna'
 theme = 'ananke'
+
+[params]
+  site_logo = "img/Logo-Projekt Kateryna.png"
