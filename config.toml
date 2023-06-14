@@ -10,8 +10,8 @@ paginate = 100
   categories = "/k/:title/"
 
 [params]
-  description = "Projekt Kateryna : "
-  images = ['/Logo-Projekt Kateryna.png']
+  description = "Projekt Kateryna : The decolonisation of Ukrainian history on Wikipedia."
+  images = ['/Logo-Projekt_Kateryna.png']
   footer = "&copy; Projekt Kateryna 2023" 
   summary_length = 250
   favicon = ""
