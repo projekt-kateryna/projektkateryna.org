@@ -2,7 +2,7 @@
 title: "Slides" 
 date: 2023-06-01T13:00:00+03:00
 draft: false
-url: "/about"
+url: "/slides"
 ---
 
 
