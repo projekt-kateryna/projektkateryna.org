@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+  <head>
+    <meta charset="utf-8">
+	<meta name="robots" content="all" />
+    {{ template "_internal/opengraph.html" . }}
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Projekt Kateryna{{ with .Title }} | {{ . }}{{ end }}</title>
+    <link rel="stylesheet" href="{{ "css/style.css" | relURL }}" />
+    <link rel="stylesheet" href="{{ "css/fonts.css" | relURL }}" />
+    
+  </head>
+
+  <body{{if .IsPage}} class="page"{{ end }}>
+    
+    <div class="header">
+          <div class="banner">
+            <div class="wrapper">
+              <div class="imgwrapper">
+                <a href="/"><img width="160px" src="/Logo-Projekt Kateryna.png"></a>
+              </div>
+              <div class="titlewrapper">
+                <span class="titlemain"><a href="/">Projekt Kateryna</a></span><br>
+                <span class="subtitlemain"><a href="/">The decolonisation of Ukrainian history on Wikipedia.</a></span>
+              </div>
+            </div>
+          </div>
+      </div>
+    </div>
+
+    <!-- meny-->
+    <nav class="menu">
+      <div class="topnav" id="myTopnav">      
+        <a href="/" class="active">Menu</a>    {{ $currentPage := . }}      {{ range .Site.Menus.main }}          {{ if .HasChildren }}
+        <div class="dropdown">
+          <button class="dropbtn">{{ .Name }}
+            <i class="fa fa-caret-down"></i>
+          </button>
+          <div class="dropdown-content">          {{ range .Children }}
+            <a href="{{ .URL }}">{{ .Name }}</a>          {{ end }}
+          </div>
+        </div>      {{ else }}
+        <a href="{{ .URL }}">{{ .Name }}</a>      {{ end }}      {{ end }}
+        <a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a>
+      </div>
+    </nav>
+
+    <script>
+      function myFunction() {
+        var x = document.getElementById("myTopnav");
+        if (x.className === "topnav") {
+          x.className += " responsive";
+        } else {
+          x.className = "topnav";
+        }
+      }
+      </script>
+

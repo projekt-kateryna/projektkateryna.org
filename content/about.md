@@ -3,10 +3,10 @@ title: "About Projekt Kateryna"
 date: 2023-01-01T13:00:00+03:00
 draft: false
 url: "/about"
+toc: false
 ---
 
-## Purpose
-
+## 1. Purpose
 
 ### Overall political goal
 
@@ -25,7 +25,7 @@ The suggested name is a reference to the oil painting **Катерина** by Ta
 We also explicitly suggest the **spelling** »Projekt Kateryna», to underline that **English is only one out of many languages** to be supported, and one whose transcription differs the most from the original Ukrainian language.
 
 
-## Problem definition
+## 2. Problem definition
 
 
 ### Overall problem definition
@@ -46,7 +46,7 @@ And going further back in history, there is no deep analysis of the battle of Po
 There is also no mentioning of the 1872 anti-Ukrainian legislation [https://uk.wikipedia.org/wiki/Емський_указ](https://uk.wikipedia.org/wiki/Емський_указ) or other root causes of Ukrainian nationalism.
 
 
-## The opportunity
+## 3. The opportunity
 
 
 ### There is an awareness of the problem
@@ -69,7 +69,7 @@ Wikipedia and in particular Wikidata is heavily relied upon by ChatGPT and other
 The Yale lectures by **Timothy Snyder** (autumn 2022) are available as **transcripts** and eminently **quotable** as well as highly educational. They are nearly **devoid of Russian bias**, and highly **credible** in the eyes of all relevant audiences.
 
 
-## Content
+## 4. Content
 
 
 ### People
@@ -89,7 +89,7 @@ Of special relevance for Ukrainian places is the proper transliteration from Ukr
 The key articles on Ukrainian history and culture deserve the most attention. This includes not just textual contents, but maps, pictures, other illustrations, links, categories, navigation bars, and other Wikipedia concepts that form the overall representation of the Ukrainian nation on Wikipedia.
 
 
-## A role model: Projekt Fredrika
+## 5. A role model: Projekt Fredrika
 
 
 ### Swedish Finland on Wikipedia
@@ -120,6 +120,7 @@ The project is named after [Fredrika Runeberg](https://en.wikipedia.org/wiki/Fre
 
 - tens to hundreds of new articles created
 
+## 6. The team
 
 ### Kaj Arnö, Project initiator
 
