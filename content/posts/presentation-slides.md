@@ -10,5 +10,4 @@ images: ["/images/kateryna-slides.jpg"]
 
 Slides presenting Projekt Kateryna.
 
-
 {{< gslides src="https://docs.google.com/presentation/d/e/2PACX-1vRXwFteeZmxFCXObt8ryR2pUojzE_T3T8iRxD-9Vc8gqrSUwoeExxhRA3FNVHJTL7jqCwvplZNsDPIF/embed?start=false&loop=false&delayms=3000" >}}
