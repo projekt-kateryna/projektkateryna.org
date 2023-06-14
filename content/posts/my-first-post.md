@@ -6,4 +6,4 @@ draft: false
 
 Kaj Arnö's online lecture at Karazin University on "Projekt Kateryna: The decolonisation of Ukrainian history on Wikipedia" is now published on youtube and viewable below: 
 
-{{< youtube w7Ft2ymGmfc >}}
+{{< youtube htrZJ5I28w4 >}}
