@@ -6,4 +6,4 @@ url: "/slides"
 ---
 
 
-{{< gslides src="https://docs.google.com/presentation/d/1IOJrYL12uR6O-W6xVLq9hECKUB_lMtQNw8wLYvd6maQ/edit#slide=id.p/embed?start=false&loop=false&delayms=3000" >}}
+{{< gslides src="https://docs.google.com/presentation/d/e/2PACX-1vRXwFteeZmxFCXObt8ryR2pUojzE_T3T8iRxD-9Vc8gqrSUwoeExxhRA3FNVHJTL7jqCwvplZNsDPIF/embed?start=false&loop=false&delayms=3000" >}}
