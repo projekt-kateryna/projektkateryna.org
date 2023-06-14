@@ -2,7 +2,7 @@
 title: "Projekt Kateryna presentation slides" 
 date: 2023-06-01T13:00:00+03:00
 draft: false
-url: "/slides"
+url: "/presentation-slides"
 ---
 
 Slides presenting Projekt Kateryna:
