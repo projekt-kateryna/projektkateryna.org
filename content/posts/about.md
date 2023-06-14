@@ -8,17 +8,17 @@ url: "/about"
 ## Purpose
 
 
-### **Overall political goal**
+### Overall political goal
 
 Make the general audience **aware** of Ukrainian history, culture and language. Fight **lack of education** and knowledge, annihilate centuries of one-sided **Russian propaganda**, create **understanding** and public **support** for the Ukrainian nation, its people, its culture and deep relations to **other European nations**. 
 
 
-### **Method**
+### Method
 
 Provide high-quality information on Ukrainian history, culture, people and language where the free world is looking for it: On **Wikipedia**, Wikimedia **Commons** and **Wikidata**, according to the rules and practices designed by the Wikimedia Foundation. Directly enable this in at least half a dozen languages and create good conditions for another dozen languages.
 
 
-### **Why »Projekt Katerina»?**
+### Why »Projekt Katerina»?
 
 The suggested name is a reference to the oil painting **Катерина** by Taras Shevchenko (1842) [uk.wikipedia.org/wiki/Катерина_(картина_Шевченка)](https://uk.wikipedia.org/wiki/Катерина_(картина_Шевченка)). Modelled after »Projekt Fredrika» (see [en.wikipedia.org/wiki/Wikipedia:Projekt_Fredrika](https://en.wikipedia.org/wiki/Wikipedia:Projekt_Fredrika)), we suggest a female name to be picked (as history is full enough of men anyway).
 
@@ -28,12 +28,12 @@ We also explicitly suggest the **spelling** »Projekt Katerina», to underline t
 ## Problem definition
 
 
-### **Overall problem definition**
+### Overall problem definition
 
 Even the best of the frequently used sources of neutral information – Wikipedia – **lacks an objective picture** of the suppressed Ukrainian nation. Descriptions in most languages are distorted by the long-term effects of Russian oppression during the Russian Empire and during Soviet times. 
 
 
-### **Example: The »Ukraina» article on svwp**
+### Example: The »Ukraina» article on svwp
 
 The Swedish overall Wikipedia article [Ukraina](https://sv.wikipedia.org/wiki/Ukraina) – arguably the single most influential description of Ukraine in Swedish – is heavily biased towards the Russian propagandistic description of Ukraine as "barely a state". 
 
@@ -49,22 +49,22 @@ There is also no mentioning of the 1872 anti-Ukrainian legislation [https://uk.w
 ## The opportunity
 
 
-### **There is an awareness of the problem**
+### There is an awareness of the problem
 
 While Russia's version of history is still the prevalent default even in the German or French perception of history, the brutal war has opened the eyes for the educated audience: Perhaps the established truth isn't true, after all? There is a willingness to hear a different story.
 
 
-### **There is a platform to spread the story **
+### There is a platform to spread the story
 
 As »Ukraine's version of history» is based on scientific reality, Wikipedia provides the perfect platform for spreading it. Wikipedia is **multi-lingual**, highly **credible** and **omnipresent**.
 
 
-### **The platform even scales to AI**
+### The platform even scales to AI
 
 Wikipedia and in particular Wikidata is heavily relied upon by ChatGPT and other modern AI. This means that the version of reality which is in effect in Wikipedia and Wikidata is the one that affects public perception for many years to come.
 
 
-### **There are new, good sources**
+### There are new, good sources
 
 The Yale lectures by **Timothy Snyder** (autumn 2022) are available as **transcripts** and eminently **quotable** as well as highly educational. They are nearly **devoid of Russian bias**, and highly **credible** in the eyes of all relevant audiences.
 
@@ -72,19 +72,19 @@ The Yale lectures by **Timothy Snyder** (autumn 2022) are available as **transcr
 ## Content
 
 
-### **People**
+### People
 
 In Wikipedia, articles about people are the most popular ones, based on how frequently they are read. It is thus important that relevant Ukrainian authors, musicians, painters, scientists, philosophers, politicians, military officers, and other notable individuals have good articles, good portraits or photos, and thorough metadata on Wikidata. It is also important that they are portrayed as Ukrainians, and that their names are correctly transcribed into various languages (not merely English), including recorded pronunciation guides.
 
 
-### **Cities, areas, places**
+### Cities, areas, places
 
 Places is another frequently read category of articles on Wikipedia. There are good guidelines for what constitutes a good article. 
 
 Of special relevance for Ukrainian places is the proper transliteration from Ukrainian to the language in question. These language communities have strong opinions on tradition; for example, in Swedish, the best-known places with an "established" spelling diverging from current Ukrainian-Swedish transliteration rules are Krim (not Krym), Kiev (not Kyjiv), Odessa (not Odesa) and Gammalsvenskby (an original Swedish name). Most if not all other names can use current Ukrainian-Swedish rules. 
 
 
-### **Ukrainian history and culture**
+### Ukrainian history and culture
 
 The key articles on Ukrainian history and culture deserve the most attention. This includes not just textual contents, but maps, pictures, other illustrations, links, categories, navigation bars, and other Wikipedia concepts that form the overall representation of the Ukrainian nation on Wikipedia.
 
@@ -92,19 +92,19 @@ The key articles on Ukrainian history and culture deserve the most attention. Th
 ## A role model: Projekt Fredrika
 
 
-### **Swedish Finland on Wikipedia**
+### Swedish Finland on Wikipedia
 
 Projekt Fredrika was established 2017 in order to improve the coverage of Swedish Finland and Swedish in Finland on Wikipedia, in Swedish and other languages.
 
 The project is organised through a project page in Wikipedia, currently in [Swedish](https://sv.wikipedia.org/wiki/Wikipedia:Projekt_Fredrika), [Finnish](https://fi.wikipedia.org/wiki/Wikiprojekti:Projekt_Fredrika), [English](https://en.wikipedia.org/wiki/Wikipedia:Projekt_Fredrika), [German](https://de.wikipedia.org/wiki/Wikipedia:Projekt_Fredrika), [French](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Projekt_Fredrika), [Russian](https://ru.wikipedia.org/wiki/Википедия:Projekt_Fredrika), and [Estonian](https://et.wikipedia.org/wiki/Vikipeedia:Projekt_Fredrika) (not yet Ukrainian). It is supported through the registered association Projekt Fredrika rf (see [https://projektfredrika.fi/](https://projektfredrika.fi/)).
 
 
-### **The project name**
+### The project name
 
 The project is named after [Fredrika Runeberg](https://en.wikipedia.org/wiki/Fredrika_Runeberg), born Fredrika Tengström, a Finland Swedish novelist, journalist and the wife of Finland's national poet [Johan Ludvig Runeberg](https://en.wikipedia.org/wiki/Johan_Ludvig_Runeberg) (a contemporary of Taras Shevchenko, with a similar role towards Finland's culture). She was a pioneer of Finnish historical fiction and one of the first female journalists in Finland.
 
 
-### **Accomplishments**
+### Accomplishments
 
 - raised Wikipedia content about the [Nagu](https://en.wikipedia.org/wiki/Nagu) region to encyclopedia quality level, published a hard cover edition with over 1200 articles on Nagu
 
@@ -121,7 +121,7 @@ The project is named after [Fredrika Runeberg](https://en.wikipedia.org/wiki/Fre
 - tens to hundreds of new articles created
 
 
-### **Kaj Arnö, Project initiator**
+### Kaj Arnö, Project initiator
 
 See Wikipedia article (in [English](https://en.wikipedia.org/wiki/Kaj_Arn%C3%B6), [German](https://de.wikipedia.org/wiki/Kaj_Arn%C3%B6), [Swedish](https://sv.wikipedia.org/wiki/Kaj_Arn%C3%B6), [Finnish](https://fi.wikipedia.org/wiki/Kaj_Arn%C3%B6)).
 
@@ -136,7 +136,11 @@ Speaks five languages (Swedish, German, English, Finnish, French) and reads five
 Has written the original Python code for **Fredrikas lupp** ([https://github.com/projekt-fredrika/Fredrikas-Lupp](https://github.com/projekt-fredrika/Fredrikas-Lupp)) and **Voronoi** ([https://github.com/kajarnocom/voronoi](https://github.com/kajarnocom/voronoi)), two programs analysing Wikipedia contents (the second of which is named after [Вороний Георгій Феодосійович](https://uk.wikipedia.org/wiki/Вороний_Георгій_Феодосійович)).
 
 
-### **Robert Silén, Project lead**
+### Lena Jefimenko, Ukrainian Project Lead
+
+Lena Jefimenko is partner of Kaj Arnö, Ukrainian, M.Sc. Economics 2014, restaurateur since 2018, volunteer, and studying culture and philosophy at Karazin University (Kharkiv). 
+
+### Robert Silén, Technical Project Lead
 
 Robert Silén has worked with Kaj Arnö in various roles for the past ten years. He was part of Projekt Fredrika from the beginning in 2017. His Wikipedia handle [Robertsilen](https://sv.wikipedia.org/wiki/Användardiskussion:Robertsilen) is behind most of the edits done as part of Projekt Fredrika.
 
