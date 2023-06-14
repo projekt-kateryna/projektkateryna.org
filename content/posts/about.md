@@ -1,5 +1,5 @@
 ---
-title: "About Projekt Katerina" 
+title: "About Projekt Kateryna" 
 date: 2023-01-01T13:00:00+03:00
 draft: false
 url: "/about"
@@ -18,11 +18,11 @@ Make the general audience **aware** of Ukrainian history, culture and language. 
 Provide high-quality information on Ukrainian history, culture, people and language where the free world is looking for it: On **Wikipedia**, Wikimedia **Commons** and **Wikidata**, according to the rules and practices designed by the Wikimedia Foundation. Directly enable this in at least half a dozen languages and create good conditions for another dozen languages.
 
 
-### Why »Projekt Katerina»?
+### Why »Projekt Kateryna»?
 
 The suggested name is a reference to the oil painting **Катерина** by Taras Shevchenko (1842) [uk.wikipedia.org/wiki/Катерина_(картина_Шевченка)](https://uk.wikipedia.org/wiki/Катерина_(картина_Шевченка)). Modelled after »Projekt Fredrika» (see [en.wikipedia.org/wiki/Wikipedia:Projekt_Fredrika](https://en.wikipedia.org/wiki/Wikipedia:Projekt_Fredrika)), we suggest a female name to be picked (as history is full enough of men anyway).
 
-We also explicitly suggest the **spelling** »Projekt Katerina», to underline that **English is only one out of many languages** to be supported, and one whose transcription differs the most from the original Ukrainian language.
+We also explicitly suggest the **spelling** »Projekt Kateryna», to underline that **English is only one out of many languages** to be supported, and one whose transcription differs the most from the original Ukrainian language.
 
 
 ## Problem definition

@@ -1,5 +1,5 @@
 ---
-title: "Projekt Katerina: Undoing Russian imperialist propaganda" 
+title: "Projekt Kateryna: Undoing Russian imperialist propaganda" 
 date: 2023-03-03T13:00:00+03:00
 draft: false
 url: "/undoing-russian-imperialist-propaganda"
@@ -10,7 +10,7 @@ Three centuries of systematic Russian condescension towards Ukraine have paved t
 
 Russian disinformation is the antithesis of Wikipedia's NPOV (Neutral Point of View). Through its mission of neutrality, Wikipedia is the perfect platform for combatting disinformation. Yet, even Wikipedia is today influenced by Russian propaganda – to a different degree for different language versions.
 
-The aim of Projekt Katerina is to fix this, with a special focus on the burning issue at hand – Ukraine. 
+The aim of Projekt Kateryna is to fix this, with a special focus on the burning issue at hand – Ukraine. 
 
 From a **Wikipedia perspective**, this is about mapping out and gradually eliminating the current Russian bias. 
 
