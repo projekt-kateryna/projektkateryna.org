@@ -1,4 +1,4 @@
-baseURL = 'http://projektkateryna.org/'
+baseURL = 'https://projektkateryna.org/'
 languageCode = 'en-us'
 title = 'Projekt Kateryna'
 theme = 'hugo-xmag'
