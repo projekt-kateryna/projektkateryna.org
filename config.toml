@@ -14,8 +14,8 @@ paginate = 100
   images = ['/Logo-Projekt_Kateryna.png']
   footer = "&copy; Projekt Kateryna 2023" 
   summary_length = 250
-  favicon = ""
-
+  favicon = "/favicon.ico"
+  
 [menu]
 
   [[menu.main]]
