@@ -16,8 +16,8 @@
 {{ with .Params.images }}
   {{ with index . 0 }}
     {{ with resources.Get . }}
-    {{ $image := .Fill "130x80 Top" }}
-    <div class="thumbnail"><img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" alt=""></div>
+    {{ $image := .Fit "130x130" }}
+    <div class="thumbnail"><img src="{{ $image.RelPermalink }}"  alt=""></div>
     {{ else }} <!-- no img found -->{{ end }}{{ end }}
 {{else}}<!-- no img in parameter -->{{ end }}
 {{ with .Description }}
