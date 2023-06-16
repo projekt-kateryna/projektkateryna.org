@@ -5,7 +5,7 @@ draft: false
 url: "/undoing-russian-imperialist-propaganda"
 author: "Kaj Arnö"
 categories: 
-  - "mission"
+  - "manifesto"
 images: [""]
 ---
 
