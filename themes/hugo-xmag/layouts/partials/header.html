@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode }}">
   <head>
-    <meta charset="utf-8">
-	<meta name="robots" content="all" />
-    {{ template "_internal/opengraph.html" . }}
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="utf-8">
+<meta name="robots" content="all" />
+{{ template "_internal/opengraph.html" . }}
+<meta name="viewport" content="width=device-width, initial-scale=1">
+    {{ template "_internal/google_analytics_async.html" . }}
     <title>Projekt Kateryna{{ with .Title }} | {{ . }}{{ end }}</title>
     <link rel="stylesheet" href="{{ "css/style.css" | relURL }}" />
     <link rel="stylesheet" href="{{ "css/fonts.css" | relURL }}" />
@@ -30,7 +31,7 @@
 
     <!-- meny-->
     <nav class="menu">
-      <div class="topnav" id="myTopnav">      
+      <div class="topnav" id="myTopnav">
         <a href="/" class="active">Menu</a>    {{ $currentPage := . }}      {{ range .Site.Menus.main }}          {{ if .HasChildren }}
         <div class="dropdown">
           <button class="dropbtn">{{ .Name }}

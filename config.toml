@@ -4,6 +4,7 @@ title = 'Projekt Kateryna'
 theme = 'hugo-xmag'
 buildDrafts = false
 paginate = 100
+googleAnalytics = 'G-E4R1XTW3DC'
 
 [permalinks]
   post = '/:filename/'
