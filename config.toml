@@ -13,54 +13,124 @@ googleAnalytics = 'G-E4R1XTW3DC'
 [params]
   description = "Projekt Kateryna : The decolonisation of Ukrainian history on Wikipedia."
   images = ['/Logo-Projekt_Kateryna.png']
-  footer = "&copy; Projekt Kateryna 2023" 
+
   summary_length = 250
   favicon = "/favicon.ico"
+  subtitle = 'The decolonisation of Ukrainian history on Wikipedia.'
   
-[menu]
 
-  [[menu.main]]
+
+DefaultContentLanguage = "en"
+DefaultContentLanguageInSubdir = true
+
+[languages]
+  [languages.en]
+    title = "Projekt Kateryna"
+    languageName = "English"
+    languageCode = "en"
+    weight = 1
+    [languages.en.params]
+      footer = "&copy; Projekt Kateryna 2023" 
+  [languages.uk]
+    title = "Проект Катерина"
+    languageName = "Ukrainian"
+    languageCode = "uk"
+    weight = 2
+    [languages.uk.params]
+      subtitle = "Деколонізація української історії у Вікіпедії."  
+      footer = "&copy; Проект Катерина 2023" 
+
+
+[[languages.en.menu.main]]
   name = 'Blog posts'
   url = '/'
   identifier = 'posts'
   weight = 10
 
-    [[menu.main]]
+    [[languages.en.menu.main]]
     name = 'Purpose'
     url = '/about/#1-purpose'
     identifier = 'purpose'
     parent = 'About'
     weight = 10
 
-    [[menu.main]]
+    [[languages.en.menu.main]]
     name = 'Problem Definition'
     url = '/about/#2-problem-definition'
     identifier = 'problem'
     parent = 'About'
     weight = 20
 
-    [[menu.main]]
+    [[languages.en.menu.main]]
     name = 'The opportunity'
     url = '/about/#3-the-opportunity'
     identifier = 'opportunity'
     parent = 'About'
     weight = 30
 
-    [[menu.main]]
+    [[languages.en.menu.main]]
     name = 'Content'
     url = '/about/#4-content'
     identifier = 'content'
     parent = 'About'
     weight = 40
 
-    [[menu.main]]
+   [[languages.en.menu.main]]
     name = 'A role model: Projekt Fredrika'
     url = '/about/#5-a-role-model-projekt-fredrika'
     identifier = 'rolemodel'
     parent = 'About'
     weight = 50
 
-    [[menu.main]]
+    [[languages.en.menu.main]]
+    name = 'The team'
+    url = '/about/#6-the-team'
+    identifier = 'team'
+    parent = 'About'
+    weight = 60
+
+[[languages.uk.menu.main]]
+  name = 'публікації в блозі'
+  url = '/'
+  identifier = 'posts'
+  weight = 10
+
+    [[languages.uk.menu.main]]
+    name = 'Purpose'
+    url = '/about/#1-purpose'
+    identifier = 'purpose'
+    parent = 'About'
+    weight = 10
+
+    [[languages.uk.menu.main]]
+    name = 'Problem Definition'
+    url = '/about/#2-problem-definition'
+    identifier = 'problem'
+    parent = 'About'
+    weight = 20
+
+    [[languages.uk.menu.main]]
+    name = 'The opportunity'
+    url = '/about/#3-the-opportunity'
+    identifier = 'opportunity'
+    parent = 'About'
+    weight = 30
+
+    [[languages.uk.menu.main]]
+    name = 'Content'
+    url = '/about/#4-content'
+    identifier = 'content'
+    parent = 'About'
+    weight = 40
+
+   [[languages.uk.menu.main]]
+    name = 'A role model: Projekt Fredrika'
+    url = '/about/#5-a-role-model-projekt-fredrika'
+    identifier = 'rolemodel'
+    parent = 'About'
+    weight = 50
+
+    [[languages.uk.menu.main]]
     name = 'The team'
     url = '/about/#6-the-team'
     identifier = 'team'

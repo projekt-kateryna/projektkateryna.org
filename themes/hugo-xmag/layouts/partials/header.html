@@ -5,7 +5,17 @@
 <meta name="robots" content="all" />
 {{ template "_internal/opengraph.html" . }}
 <meta name="viewport" content="width=device-width, initial-scale=1">
-    {{ template "_internal/google_analytics_async.html" . }}
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-E4R1XTW3DC"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-E4R1XTW3DC');
+</script>
+
     <title>Projekt Kateryna{{ with .Title }} | {{ . }}{{ end }}</title>
     <link rel="stylesheet" href="{{ "css/style.css" | relURL }}" />
     <link rel="stylesheet" href="{{ "css/fonts.css" | relURL }}" />
@@ -21,9 +31,10 @@
                 <a href="/"><img src="/Logo-Projekt_Kateryna.png"></a>
               </div>
               <div class="titlewrapper">
-                <span class="titlemain"><a href="/">Projekt Kateryna</a></span><br>
-                <span class="subtitlemain"><a href="/">The decolonisation of Ukrainian history on Wikipedia.</a></span>
+                <span class="titlemain"><a href="/">{{.Site.Params.Title}}</a></span><br>
+                <span class="subtitlemain"><a href="/">{{.Site.Params.subtitle}}</a></span>
               </div>
+
             </div>
           </div>
       </div>
@@ -56,4 +67,3 @@
         }
       }
       </script>
-
