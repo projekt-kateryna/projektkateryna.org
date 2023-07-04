@@ -11,12 +11,10 @@ googleAnalytics = 'G-E4R1XTW3DC'
   categories = "/k/:title/"
 
 [params]
-  description = "Projekt Kateryna : The decolonisation of Ukrainian history on Wikipedia."
   images = ['/Logo-Projekt_Kateryna.png']
-
   summary_length = 250
   favicon = "/favicon.ico"
-  subtitle = 'The decolonisation of Ukrainian history on Wikipedia.'
+  
   
 
 
@@ -30,6 +28,8 @@ DefaultContentLanguageInSubdir = true
     languageCode = "en"
     weight = 1
     [languages.en.params]
+      description = "Projekt Kateryna : The decolonisation of Ukrainian history on Wikipedia."
+      subtitle = 'The decolonisation of Ukrainian history on Wikipedia.'
       footer = "&copy; Projekt Kateryna 2023" 
   [languages.uk]
     title = "Проект Катерина"
@@ -37,6 +37,7 @@ DefaultContentLanguageInSubdir = true
     languageCode = "uk"
     weight = 2
     [languages.uk.params]
+      description = "Проект Катерина : Деколонізація української історії у Вікіпедії."
       subtitle = "Деколонізація української історії у Вікіпедії."  
       footer = "&copy; Проект Катерина 2023" 
 
