@@ -45,7 +45,7 @@ DefaultContentLanguageInSubdir = true
   weight = 10
 
 [[languages.en.menu.main]]
-  name = 'Uk'
+  name = 'Ук'
   url = '/uk/'
   identifier = 'uk'
   weight = 20
