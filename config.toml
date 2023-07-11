@@ -25,8 +25,8 @@ DefaultContentLanguageInSubdir = true
     languageCode = "en"
     weight = 1
     [languages.en.params]
-      description = "Projekt Kateryna : The decolonisation of Ukrainian history on Wikipedia."
-      subtitle = 'The decolonisation of Ukrainian history on Wikipedia.'
+      description = "Projekt Kateryna : The decolonisation of Ukrainian history on Wikipedia"
+      subtitle = 'The decolonisation of Ukrainian history on Wikipedia'
       footer = "&copy; Projekt Kateryna 2023" 
   [languages.uk]
     title = "Проект Катерина"
@@ -34,7 +34,7 @@ DefaultContentLanguageInSubdir = true
     languageCode = "uk"
     weight = 2
     [languages.uk.params]
-      description = "Проект Катерина : Деколонізація української історії у Вікіпедії."
+      description = "Проект Катерина : Деколонізація української історії у Вікіпедії"
       subtitle = "Деколонізація української історії у Вікіпедії (на сторінках народної енциклопедії Wikipedia)"  
       footer = "&copy; Проект Катерина 2023" 
 
