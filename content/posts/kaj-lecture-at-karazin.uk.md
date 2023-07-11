@@ -1,12 +1,15 @@
 ---
-title: "Online lecture at Karazin University" 
+title: "Онлайн-лекція в Харківському національному університеті імені В. Н. Каразіна" 
 date: 2023-06-14T13:00:00+03:00
-draft: true
-
+draft: false
+url: "/uk/kaj-lecture-at-karazin"
 author: "Robert"
 categories: 
   - "презентація"
 images: ["/images/kajlecture.jpg"]
+showimage: false
 ---
 
-placeholder for ukrainian translation
+Онлайн-лекція Кая Арно в Харківському національному університеті імені В. Н. Каразіна (вівторок, 6 червня 2023 року) на тему "Проєкт Катерина: деколонізація української історії у Вікіпедії":
+
+{{< youtube htrZJ5I28w4 >}}

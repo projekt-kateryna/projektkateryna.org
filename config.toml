@@ -14,9 +14,6 @@ googleAnalytics = 'G-E4R1XTW3DC'
   images = ['/Logo-Projekt_Kateryna.png']
   summary_length = 250
   favicon = "/favicon.ico"
-  
-  
-
 
 DefaultContentLanguage = "en"
 DefaultContentLanguageInSubdir = true
@@ -38,15 +35,32 @@ DefaultContentLanguageInSubdir = true
     weight = 2
     [languages.uk.params]
       description = "Проект Катерина : Деколонізація української історії у Вікіпедії."
-      subtitle = "Деколонізація української історії у Вікіпедії."  
+      subtitle = "Деколонізація української історії у Вікіпедії (на сторінках народної енциклопедії Wikipedia)"  
       footer = "&copy; Проект Катерина 2023" 
 
+[[languages.en.menu.main]]
+  name = 'En'
+  url = '/'
+  identifier = 'en'
+  weight = 10
+
+[[languages.en.menu.main]]
+  name = 'Uk'
+  url = '/uk/'
+  identifier = 'uk'
+  weight = 20
 
 [[languages.en.menu.main]]
   name = 'Blog posts'
   url = '/'
   identifier = 'posts'
-  weight = 10
+  weight = 30
+
+  [[languages.en.menu.main]]
+  name = 'About'
+  url = '/about/'
+  identifier = 'About'
+  weight = 40
 
     [[languages.en.menu.main]]
     name = 'Purpose'
@@ -91,49 +105,67 @@ DefaultContentLanguageInSubdir = true
     weight = 60
 
 [[languages.uk.menu.main]]
-  name = 'публікації в блозі'
+  name = 'En'
   url = '/'
-  identifier = 'posts'
+  identifier = 'en'
   weight = 10
 
+[[languages.uk.menu.main]]
+  name = 'Uk'
+  url = '/uk/'
+  identifier = 'uk'
+  weight = 20
+
+[[languages.uk.menu.main]]
+  name = 'Публікації в блозі'
+  url = '/uk/'
+  identifier = 'posts'
+  weight = 30
+
+[[languages.uk.menu.main]]
+  name = 'Про'
+  url = '/про/'
+  identifier = 'Про'
+  weight = 40
+
     [[languages.uk.menu.main]]
-    name = 'Purpose'
-    url = '/about/#1-purpose'
-    identifier = 'purpose'
-    parent = 'About'
+    name = 'Мета'
+    url = '/про/#1-мета'
+    identifier = 'мета'
+    parent = 'Про'
     weight = 10
 
     [[languages.uk.menu.main]]
-    name = 'Problem Definition'
-    url = '/about/#2-problem-definition'
-    identifier = 'problem'
-    parent = 'About'
+    name = 'Визначення проблеми'
+    url = '/про/#2-визначення-проблеми'
+    identifier = 'визначення-проблеми'
+    parent = 'Про'
     weight = 20
 
     [[languages.uk.menu.main]]
-    name = 'The opportunity'
-    url = '/about/#3-the-opportunity'
-    identifier = 'opportunity'
-    parent = 'About'
+    name = 'Можливість'
+    url = '/про/#3-можливість'
+    identifier = 'можливість'
+    parent = 'Про'
     weight = 30
 
     [[languages.uk.menu.main]]
-    name = 'Content'
-    url = '/about/#4-content'
-    identifier = 'content'
-    parent = 'About'
+    name = 'Зміст'
+    url = '/про/#4-зміст'
+    identifier = 'зміст'
+    parent = 'Про'
     weight = 40
 
    [[languages.uk.menu.main]]
-    name = 'A role model: Projekt Fredrika'
-    url = '/about/#5-a-role-model-projekt-fredrika'
-    identifier = 'rolemodel'
-    parent = 'About'
+    name = 'Приклад для наслідування: Проєкт Фредріка'
+    url = '/про/#5-приклад-для-наслідування-проєкт-фредріка'
+    identifier = 'приклад-для-наслідування-проєкт-фредріка'
+    parent = 'Про'
     weight = 50
 
     [[languages.uk.menu.main]]
-    name = 'The team'
-    url = '/about/#6-the-team'
-    identifier = 'team'
-    parent = 'About'
+    name = 'Команда'
+    url = '/про/#6-команда'
+    identifier = 'команда'
+    parent = 'Про'
     weight = 60

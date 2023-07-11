@@ -7,6 +7,7 @@ author: "Kaj Arnö"
 categories: 
   - "manifesto"
 images: ["/images/ukflag.jpg"]
+showimage: true
 ---
 
 Three centuries of systematic Russian condescension towards Ukraine have paved the way for Russia's attack on Ukraine. The Russian attitude of patronising superiority has permeated not only Russian intelligentsia and general public, but also the German, French, Scandinavian and Anglo-Saxon world, and even parts of the Slavic world. The manipulation of public opinion has culminated in the two last decades of Russian disinformation campaigns, skillfully orchestrated by Putin's troll factories.

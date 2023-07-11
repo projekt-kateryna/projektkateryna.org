@@ -1,11 +1,12 @@
 ---
-title: "Проект Катерина слайди презентації" 
+title: "Слайди презентації проєкту Катерина" 
 date: 2023-06-01T13:00:00+03:00
 draft: false
 url: "/uk/presentation-slides/"
 categories: 
   - "презентація"
 images: ["/images/kateryna-slides_uk.jpg"]
+showimage: false
 ---
 
 Слайди, що презентують Проект Катерина.

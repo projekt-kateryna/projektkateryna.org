@@ -7,6 +7,7 @@ author: "Robert"
 categories: 
   - "presentation"
 images: ["/images/kajlecture.jpg"]
+showimage: false
 ---
 
 Kaj Arnö's online lecture at Karazin University (Tue 6 June 2023) on "Projekt Kateryna: The decolonisation of Ukrainian history on Wikipedia":

@@ -43,7 +43,7 @@
     <!-- meny-->
     <nav class="menu">
       <div class="topnav" id="myTopnav">
-        <a href="/" class="active">Menu</a>    {{ $currentPage := . }}      {{ range .Site.Menus.main }}          {{ if .HasChildren }}
+        {{ $currentPage := . }}      {{ range .Site.Menus.main }}          {{ if .HasChildren }}
         <div class="dropdown">
           <button class="dropbtn">{{ .Name }}
             <i class="fa fa-caret-down"></i>

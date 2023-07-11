@@ -6,6 +6,7 @@ url: "/presentation-slides"
 categories: 
   - "presentation"
 images: ["/images/kateryna-slides.jpg"]
+showimage: false
 ---
 
 Slides presenting Projekt Kateryna.
