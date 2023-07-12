@@ -29,7 +29,7 @@ DefaultContentLanguageInSubdir = true
       subtitle = 'The decolonisation of Ukrainian history on Wikipedia'
       footer = "&copy; Projekt Kateryna 2023" 
   [languages.uk]
-    title = "Проект Катерина"
+    title = "Проєкт Катерина"
     languageName = "Ukrainian"
     languageCode = "uk"
     weight = 2
@@ -45,7 +45,7 @@ DefaultContentLanguageInSubdir = true
   weight = 10
 
 [[languages.en.menu.main]]
-  name = 'Ук'
+  name = 'Укр'
   url = '/uk/'
   identifier = 'uk'
   weight = 20
@@ -111,7 +111,7 @@ DefaultContentLanguageInSubdir = true
   weight = 10
 
 [[languages.uk.menu.main]]
-  name = 'Uk'
+  name = 'Укр'
   url = '/uk/'
   identifier = 'uk'
   weight = 20
