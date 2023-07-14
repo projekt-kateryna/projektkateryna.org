@@ -34,9 +34,9 @@ DefaultContentLanguageInSubdir = true
     languageCode = "uk"
     weight = 2
     [languages.uk.params]
-      description = "Проект Катерина : Деколонізація української історії у Вікіпедії"
+      description = "Проєкт Катерина : Деколонізація української історії у Вікіпедії"
       subtitle = "Деколонізація української історії у Вікіпедії (на сторінках народної енциклопедії Wikipedia)"  
-      footer = "&copy; Проект Катерина 2023" 
+      footer = "&copy; Проєкт Катерина 2023" 
 
 [[languages.en.menu.main]]
   name = 'En'
@@ -123,49 +123,49 @@ DefaultContentLanguageInSubdir = true
   weight = 30
 
 [[languages.uk.menu.main]]
-  name = 'Про'
+  name = 'Про нас'
   url = '/про/'
-  identifier = 'Про'
+  identifier = 'Про-нас'
   weight = 40
 
     [[languages.uk.menu.main]]
     name = 'Мета'
     url = '/про/#1-мета'
     identifier = 'мета'
-    parent = 'Про'
+    parent = 'Про-нас'
     weight = 10
 
     [[languages.uk.menu.main]]
     name = 'Визначення проблеми'
     url = '/про/#2-визначення-проблеми'
     identifier = 'визначення-проблеми'
-    parent = 'Про'
+    parent = 'Про-нас'
     weight = 20
 
     [[languages.uk.menu.main]]
     name = 'Можливість'
     url = '/про/#3-можливість'
     identifier = 'можливість'
-    parent = 'Про'
+    parent = 'Про-нас'
     weight = 30
 
     [[languages.uk.menu.main]]
     name = 'Зміст'
     url = '/про/#4-зміст'
     identifier = 'зміст'
-    parent = 'Про'
+    parent = 'Про-нас'
     weight = 40
 
    [[languages.uk.menu.main]]
     name = 'Приклад для наслідування: Проєкт Фредріка'
     url = '/про/#5-приклад-для-наслідування-проєкт-фредріка'
     identifier = 'приклад-для-наслідування-проєкт-фредріка'
-    parent = 'Про'
+    parent = 'Про-нас'
     weight = 50
 
     [[languages.uk.menu.main]]
     name = 'Команда'
     url = '/про/#6-команда'
     identifier = 'команда'
-    parent = 'Про'
+    parent = 'Про-нас'
     weight = 60

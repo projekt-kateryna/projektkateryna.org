@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode }}">
-  <head>
+<head>
 <meta charset="utf-8">
 <meta name="robots" content="all" />
 {{ template "_internal/opengraph.html" . }}
@@ -12,11 +12,10 @@
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', 'G-E4R1XTW3DC');
 </script>
 
-    <title>Projekt Kateryna{{ with .Title }} | {{ . }}{{ end }}</title>
+    <title>{{.Site.Params.Title}}{{ with .Title }} | {{ . }}{{ end }}</title>
     <link rel="stylesheet" href="{{ "css/style.css" | relURL }}" />
     <link rel="stylesheet" href="{{ "css/fonts.css" | relURL }}" />
     
