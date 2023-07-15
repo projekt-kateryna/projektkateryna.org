@@ -143,6 +143,6 @@ Olena Yefimenko. Master of Economics. Manager. Since 2008, the founder, owner an
 
 ### Robert Silén, Technical Project Lead
 
-Robert Silén. Master of Science 2010. Has worked with Kaj Arnö in various roles for the past ten years. He was part of Projekt Fredrika from the beginning in 2017. His Wikipedia handle [Robertsilen](https://sv.wikipedia.org/wiki/Användardiskussion:Robertsilen) is behind most of the edits done as part of Projekt Fredrika.
+Robert Silén. Master of Science 2010. Robert has worked with Kaj Arnö in various roles for the past ten years. He was part of Projekt Fredrika from the beginning in 2017. His Wikipedia handle [Robertsilen](https://sv.wikipedia.org/wiki/Användardiskussion:Robertsilen) is behind most of the edits done as part of Projekt Fredrika.
 
 Robert's action bias approach complements Kaj - and this combination has proven critical to walk the talk. Robert speaks three languages fluently and grasps several more. He does basic editing, programming, etc, enough to scale whatever impact we are making with data or themes that we are working with.
