@@ -139,7 +139,7 @@ Has written the original Python code for **Fredrikas lupp** ([https://github.com
 
 ### Lena Jefimenko, Ukrainian Project Lead
 
-Olena Yefimenko. Master of Economics. Manager. Since 2008, the founder, owner and CEO of a chain of restaurants. Organizer of the “Festival of goodness” Kyiv 2015. Completed a one-year course at the Kharkiv School of Architecture. Speaks 4 languages. She is currently studying Polish and Swedish, in parallel with her studies at the Faculty of Philosophy of Karazin Kharkiv State University. 
+Olena Yefimenko. Master of Economics. Manager. Since 2008, the founder, owner and CEO of a chain of restaurants. Organizer of the “Festival of goodness” Kyiv 2015. Completed a one-year course at the Kharkiv School of Architecture. Speaks 4 languages. She is currently studying Polish and Swedish, in parallel with her studies at the Faculty of Philosophy of Karazin Kharkiv State University. Lena is learning Polish, as the closest relative of Ukrainian, an integral part of Ukrainian history, and one of many glues that ties Ukraine together with the rest of Europe.
 
 ### Robert Silén, Technical Project Lead
 
