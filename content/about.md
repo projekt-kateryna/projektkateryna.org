@@ -139,7 +139,7 @@ Has written the original Python code for **Fredrikas lupp** ([https://github.com
 
 ### Lena Jefimenko, Ukrainian Project Lead
 
-Lena Jefimenko is partner of Kaj Arnö, Ukrainian, M.Sc. Economics 2014, restaurateur since 2018, volunteer, and studying culture and philosophy at Karazin University (Kharkiv). 
+Olena Yefimenko. Master of Economics. Manager. Since 2008, the founder, owner and CEO of a chain of restaurants. Organizer of the “Festival of goodness” Kyiv 2015. Completed a one-year course at the Kharkiv School of Architecture. Speaks 4 languages. She is currently studying Polish and Swedish, in parallel with her studies at the Faculty of Philosophy of Karazin Kharkiv State University. 
 
 ### Robert Silén, Technical Project Lead
 
