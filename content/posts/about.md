@@ -4,6 +4,8 @@ date: 2023-01-01T13:00:00+03:00
 draft: false
 url: "/about"
 toc: false
+categories: 
+  - "about"
 ---
 
 ## 1. Purpose

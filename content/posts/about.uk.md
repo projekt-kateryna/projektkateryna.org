@@ -5,6 +5,8 @@ draft: false
 url: "/про"
 aliases: ['/uk/about']
 toc: false
+categories: 
+  - "Про нас"
 ---
 
 ## 1. Мета
