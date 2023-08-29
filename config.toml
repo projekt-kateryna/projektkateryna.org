@@ -104,6 +104,13 @@ DefaultContentLanguageInSubdir = true
     parent = 'About'
     weight = 60
 
+    [[languages.en.menu.main]]
+    name = 'Contact details'
+    url = '/about/#7-contact-details'
+    identifier = 'contact'
+    parent = 'About'
+    weight = 70
+
 [[languages.uk.menu.main]]
   name = 'En'
   url = '/'
