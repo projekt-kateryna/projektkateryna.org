@@ -1,8 +1,8 @@
 
 <footer>
   <div class="footer">
-  {{ with .Site.Params.footer }}<div class="copyright">{{ . | markdownify }}<br>Registered non-profit association in Finland, ID 3384751-5</div>{{ end }}
-  
+  {{ with .Site.Params.footer }}<div class="copyright">{{ . | markdownify }}</div>{{ end }}
+  {{ with .Site.Params.footer2 }}<div class="copyright">{{ . | markdownify }}</div>{{ end }}
   </div>
 </footer>
 

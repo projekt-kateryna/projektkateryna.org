@@ -28,6 +28,7 @@ DefaultContentLanguageInSubdir = true
       description = "Projekt Kateryna : The decolonisation of Ukrainian history on Wikipedia"
       subtitle = 'The decolonisation of Ukrainian history on Wikipedia'
       footer = "&copy; Projekt Kateryna 2023" 
+      footer2 = "Registered non-profit association in Finland, ID 3384751-5"
   [languages.uk]
     title = "Проєкт Катерина"
     languageName = "Ukrainian"
@@ -37,7 +38,7 @@ DefaultContentLanguageInSubdir = true
       description = "Проєкт Катерина : Деколонізація української історії у Вікіпедії"
       subtitle = "Деколонізація української історії у Вікіпедії (на сторінках народної енциклопедії Wikipedia)"  
       footer = "&copy; Проєкт Катерина 2023" 
-
+      footer2 = "Зареєстрована некомерційна асоціація у Фінляндії, ID 3384751-5"
 [[languages.en.menu.main]]
   name = 'En'
   url = '/'
@@ -176,3 +177,10 @@ DefaultContentLanguageInSubdir = true
     identifier = 'команда'
     parent = 'Про-нас'
     weight = 60
+
+    [[languages.uk.menu.main]]
+    name = 'Контакт'
+    url = '/про/#7-контакт'
+    identifier = 'Контакт'
+    parent = 'Про-нас'
+    weight = 70
