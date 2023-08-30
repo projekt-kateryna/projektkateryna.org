@@ -17,7 +17,7 @@ Tę listę działań rusyfikacji na Ukrainie znaleźliśmy [na Facebooku](https:
 
 Potrzebujemy Twojej pomocy, aby stworzyć dyscyplinę potrzebną Wikipedii! Musimy znaleźć odpowiednie źródła tych twierdzeń – lub tych, które spełniają wymagania Wikipedii w zakresie informacji encyklopedycznych. Potwierdzone i udokumentowane twierdzenia należy następnie odzwierciedlić w odpowiednich artykułach Wikipedii w kilku odpowiednich językach, ponieważ uważamy, że błędem byłoby ograniczanie się do języka angielskiego. Artykuł [Rusyfikacja na Ukrainie](https://en.wikipedia.org/wiki/Russification_in_Ukraine) to dobry początek (nie istnieje w języku polskim), ale jest wiele innych, które wymagają krytycznej recenzji. Identyfikacja artykułów do poprawienia w wielu językach jest równie dużym zadaniem, jak poprawianie samej treści.
 
-W razie potrzeby dodamy języki, ale na początek podajemy listę w tych językach: [angielski (en)](/russification-of-ukraine/), estoński (et), niemiecki (de), fiński ( fi), francuski (fr), [polski (pl)](/pl/russification-of-ukraine/), rosyjski (ru), szwedzki (sv) i ukraiński (uk).
+W razie potrzeby dodamy języki, ale na początek podajemy listę w tych językach: [angielski (en)](/russification-of-ukraine/), estoński (et), niemiecki (de), fiński (fi), francuski (fr), [polski (pl)](/pl/russification-of-ukraine/), rosyjski (ru), szwedzki (sv) i ukraiński (uk).
 
 ## Lista w języku angielskim ##
 * 1720 - dekret Piotra I o zakazie druku w języku ukraińskim i konfiskacie ukraińskich ksiąg kościelnych.
