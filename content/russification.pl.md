@@ -11,7 +11,7 @@ showimage: false
 
 ![Coat of Arms Ukraine](/images/Lesser_Coat_of_Arms_of_Ukraine.png#floatright)
 
-Kultura i język Ukrainy były uciskane i padały ofiarą [rusyfikacji](https://pl.wikipedia.org/wiki/Rusyfikacja) od ponad 300 lat. Z lokalnymi różnicami koncepcja rusyfikacji odnosi się bezpośrednio do wszystkich części byłego imperium rosyjskiego, takich jak Finlandia (gdzie powstał Projekt Kateryna), kraje bałtyckie i Polska. Jednak rusyfikacja rozciągnęła swoje macki w głąb Europy Zachodniej, w tym w Niemczech i Francji, skutecznie sprzedając opinii publicznej rosocentryczny pogląd na wiele jej byłych kolonii.
+Kultura i język Ukrainy były uciskane i padały ofiarą [rusyfikacji](https://pl.wikipedia.org/wiki/Rusyfikacja) od ponad 300 lat. Z lokalnymi różnicami koncepcja rusyfikacji odnosi się bezpośrednio do wszystkich części byłego imperium rosyjskiego, takich jak Finlandia (gdzie powstał Projekt Kateryna), kraje bałtyckie i Polska. Jednak rusyfikacja rozciągnęła swoje macki w głąb Europy Zachodniej, w tym w Niemczech i Francji, skutecznie sprzedając opinii publicznej rosocentryczny pogląd na wiele jej byłych kolonii.[^1]
 
 Tę listę działań rusyfikacji na Ukrainie znaleźliśmy [na Facebooku](https://www.facebook.com/solohanna/posts/pfbid02Joga4VEQL75R4SusXszovpgCapRCtbHxS6QSzqENWVBQ6WNhzLMpy3ctXrU2e7LRl).[^2] Może to być niedokładne, ale to świetny początek. Może nawet częściowa, ale prawdopodobnie znacznie lepiej odzwierciedla rzeczywistość niż obecna „uznana prawda” o historii Ukrainy, pisana w większości przez Rosjan.
 
