@@ -2,7 +2,7 @@
 title: "Russification of Ukraine 1720-1916" 
 date: 2023-08-30T03:00:00+03:00
 draft: false
-url: "/history-of-russification/"
+url: "/russification-of-ukraine/"
 categories: 
   - "material"
 images: ["/images/Lesser_Coat_of_Arms_of_Ukraine.png"]
