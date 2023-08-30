@@ -5,8 +5,8 @@ draft: false
 url: "/russification-of-ukraine/"
 categories: 
   - "material"
-images: [""]
-showimage: true
+images: ["/images/Lesser_Coat_of_Arms_of_Ukraine.png"]
+showimage: false
 ---
 
 ![Coat of Arms Ukraine](/images/Lesser_Coat_of_Arms_of_Ukraine.png#floatright)
