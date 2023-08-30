@@ -151,4 +151,6 @@ Robert's action bias approach complements Kaj - and this combination has proven 
 
 ## 7. Contact details
 
-Registered non-profit association in Finland, ID 3384751-5, see details at [ytj.fi](https://tietopalvelu.ytj.fi/yritys/3384751-5).
+Email: projektkateryna at gmail dot com
+
+Projekt Kateryna is registered as a non-profit association in Finland, ID 3384751-5, see details at [ytj.fi](https://tietopalvelu.ytj.fi/yritys/3384751-5).
