@@ -9,11 +9,16 @@ images: ["/images/Lesser_Coat_of_Arms_of_Ukraine.png"]
 showimage: true
 ---
 
-Ukraine's culture och language has been oppressed and made a victim of [Russification](https://en.wikipedia.org/wiki/Russification) for the past 350 years - in the similar manor to Azerbaijan, Belarus, Finland, Germany, Latvia, Lithuania, Poland, Bessarabia/Moldova as well as cultural minorities within Russia/Soviet Union. 
+Ukraine's culture and language have been oppressed and made a victim of [Russification](https://en.wikipedia.org/wiki/Russification) for the past 350 years. With local variations, the concept of Russification applies directly to all parts of the former Russian empire, such as Finland (from where we originate), the Baltics and Poland. But Russification has extended its tentacles deep into Western Europe, including Germany and France, through successfully selling a Russo-centric view of many of its former colonies into the public opinion.
 
-Below is a list of examples in Ukraine's history. This is a prime example of an unofficial, initial check-list for Projekt Kateryna on what themes and Wikipedia articles to critically review.
+We found this list of actions of Russification in Ukraine on Facebook. It may be inaccurate, but it is a great start. It may even be partial, but it is likely a much better representation of reality than the current "established truth" on Ukraine's history, which is mostly written by Russians. 
 
-It is important that this information reaches not only Ukrainian or English readers, therefor we will translate this list and make it available in: English (en), Estonian (et), German (de), Finnish (fi), French (fr), Polish (pl), Russian (ru), Swedish (sv), and Ukrainian (uk). Identifying articles to correct in multiple languages is as big of a task as correcting the actual content. 
+We need your help to create academic rigour! We need to find the sources for these claims – or, for those of the claims that stand up to the requirements of Wikipedia on encyclopaedic information. The validated and documented claims should then be reflected on the appropriate Wikipedia articles, in the top 12 languages – including English. The article [Russificiation in Ukraine](https://en.wikipedia.org/wiki/Russification_in_Ukraine) is a good start, but there are many more to critically review. Identifying articles to correct in multiple languages is as big of a task as correcting the actual content. 
+
+It is important that this information reaches not only Ukrainian or English readers, therefor we will translate the list and make it available in: English (en), Estonian (et), German (de), Finnish (fi), French (fr), Polish (pl), Russian (ru), Swedish (sv), and Ukrainian (uk). 
+
+The original posting on Facebook listed two anti-Ukrainian measures of Polish origin (in 1789 and 1869). We eliminated them from the list, as our scope is Russification. Yes, there have been and are other forms of cultural imperialism. They may deserve attention at some point, but those are not our current biggest problem.
+
 
 ## List in English ##
 * 1720 - decree of Peter I on the ban on printing in the Ukrainian language and seizure of Ukrainian church books.
@@ -22,10 +27,8 @@ It is important that this information reaches not only Ukrainian or English read
 * 1764 - Catherine II ordered the Russification of Ukraine.
 * 1769 - the Russian Orthodox Church decreed the confiscation of Ukrainian primers and church books.
 * 1775 - destruction of the Zaporizhzhya Sich and closure of Ukrainian schools at the offices of the Cossack regiment.
-* 1789 - the Polish Diet Commission on Education decided to close all Ukrainian schools.
 * 1804 - by a special royal decree, all Ukrainian-language schools were banned in the Russian Empire, which led to the complete degradation of the Ukrainian population
 * 1864 - adoption of the statute, in which primary school education should be conducted only in Russian.
-* 1869 - introduction of the Polish language as the official language of education and administration of Polish Eastern Galicia.
 * 1870 - the Minister of Education of Russia declares that "the ultimate goal of education for all Irodts (non-Russians, literally "people of a different origin") is undoubtedly their Russification
 * 1876 - the decree of Alexander II on the ban on the printing and importation of any Ukrainian literature from abroad, as well as on the ban on the performance on the Ukrainian stage and Ukrainian texts in musical notes and
 * 1881 - ban on teaching in folk schools and conducting church sermons in the Ukrainian language.
