@@ -11,7 +11,7 @@ showimage: true
 
 Ukraine's culture och language has been oppressed and made a victim of [Russification](https://en.wikipedia.org/wiki/Russification) for the past 350 years - in the similar manor to Azerbaijan, Belarus, Finland, Germany, Latvia, Lithuania, Poland, Bessarabia/Moldova as well as cultural minorities within Russia/Soviet Union. 
 
-Below is a list of examples in Ukraine's history - a good initial check-list for Projekt Kateryna to critically review articles on Wikipedia. This is a convincing list from social media and can be improved further with official sources. 
+Below is a list of examples in Ukraine's history. This is a prime example of an unofficial, initial check-list for Projekt Kateryna on what themes and Wikipedia articles to critically review.
 
 It is important that this information reaches not only Ukrainian or English readers, therefor we will translate this list and make it available in: English (en), Estonian (et), German (de), Finnish (fi), French (fr), Polish (pl), Russian (ru), Swedish (sv), and Ukrainian (uk). Identifying articles to correct in multiple languages is as big of a task as correcting the actual content. 
 
