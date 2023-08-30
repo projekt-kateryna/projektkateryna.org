@@ -1,5 +1,5 @@
 ---
-title: "Russification of Ukraine 1720-1916" 
+title: "Russification of Ukraine since 1720" 
 date: 2023-08-30T03:00:00+03:00
 draft: false
 url: "/russification-of-ukraine/"
