@@ -5,20 +5,19 @@ draft: false
 url: "/russification-of-ukraine/"
 categories: 
   - "material"
-images: ["/images/Lesser_Coat_of_Arms_of_Ukraine.png"]
+images: [""]
 showimage: true
 ---
 
-Ukraine's culture and language have been oppressed and made a victim of [Russification](https://en.wikipedia.org/wiki/Russification) for the past 350 years. With local variations, the concept of Russification applies directly to all parts of the former Russian empire, such as Finland (from where we originate), the Baltics and Poland. But Russification has extended its tentacles deep into Western Europe, including Germany and France, through successfully selling a Russo-centric view of many of its former colonies into the public opinion.
+![Coat of Arms Ukraine](/images/Lesser_Coat_of_Arms_of_Ukraine.png#floatright)
 
-We found this list of actions of Russification in Ukraine on Facebook. It may be inaccurate, but it is a great start. It may even be partial, but it is likely a much better representation of reality than the current "established truth" on Ukraine's history, which is mostly written by Russians. 
+Ukraine's culture and language have been oppressed and made a victim of [Russification](https://en.wikipedia.org/wiki/Russification) for the past 350 years. With local variations, the concept of Russification applies directly to all parts of the former Russian empire, such as Finland (from where we originate), the Baltics and Poland. But Russification has extended its tentacles deep into Western Europe, including Germany and France, through successfully selling a Russo-centric view of many of its former colonies into the public opinion.[^1]
+
+We found this list of actions of Russification in Ukraine on Facebook.[^2] It may be inaccurate, but it is a great start. It may even be partial, but it is likely a much better representation of reality than the current "established truth" on Ukraine's history, which is mostly written by Russians. 
 
 We need your help to create academic rigour! We need to find the sources for these claims – or, for those of the claims that stand up to the requirements of Wikipedia on encyclopaedic information. The validated and documented claims should then be reflected on the appropriate Wikipedia articles, in the top 12 languages – including English. The article [Russificiation in Ukraine](https://en.wikipedia.org/wiki/Russification_in_Ukraine) is a good start, but there are many more to critically review. Identifying articles to correct in multiple languages is as big of a task as correcting the actual content. 
 
-It is important that this information reaches not only Ukrainian or English readers, therefor we will translate the list and make it available in: English (en), Estonian (et), German (de), Finnish (fi), French (fr), Polish (pl), Russian (ru), Swedish (sv), and Ukrainian (uk). 
-
-The original posting on Facebook listed two anti-Ukrainian measures of Polish origin (in 1789 and 1869). We eliminated them from the list, as our scope is Russification. Yes, there have been and are other forms of cultural imperialism. They may deserve attention at some point, but those are not our current biggest problem.
-
+It is important that this information reaches not only Ukrainian or English readers, therefor we will translate the list and make it available in: [English (en)](/russification-of-ukraine/), Estonian (et), German (de), Finnish (fi), French (fr), Polish (pl), Russian (ru), Swedish (sv), and Ukrainian (uk). 
 
 ## List in English ##
 * 1720 - decree of Peter I on the ban on printing in the Ukrainian language and seizure of Ukrainian church books.
@@ -41,4 +40,6 @@ The original posting on Facebook listed two anti-Ukrainian measures of Polish or
 * 1914, 1916 - Russification campaign in Western Ukraine, ban on the Ukrainian language, education, church.
 * 1932–1933 - Holomodor, an estimated 4 to 7 million Ukrainians starved to death during genocide led by Stalin. 
 
-This is by no means a complete history of the Russification of Ukraine. Russia has been opressing the Ukrainian language and culture for over 350 years. Yes, many in Ukraine speak Russian, but not by choice. There are many Ukrainian speakers who have not been able to pass on their language and culture to the next generations. 
+[^1]: We explicitly mention Finland, Baltics, and Poland for a reason. These countries are "privileged" in having more insights. In particular, these three entities stand out because they have something in common in that they are all EU and NATO members, and yet slightly different in their post-WW II relationship to the Soviet Union. Finland was never behind the Iron Curtain. Poland was, but wasn't part of the Soviet Union. The Baltics were Soviet states. So Finland, the Baltics and Poland have three flavours, three variations in experiences and narrative, towards Russification.
+
+[^2]: The original posting on Facebook listed two anti-Ukrainian measures of Polish origin (in 1789 and 1869). We eliminated them from the list, as our scope is Russification. Yes, there have been and are other forms of cultural imperialism. They may deserve attention at some point, but those are not our current biggest problem.
