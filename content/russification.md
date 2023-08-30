@@ -41,11 +41,11 @@ We will add languages as needed, but as a starting point, we are providing the l
 * 1932–1933 - Holomodor, an estimated 4 to 7 million Ukrainians starved to death during genocide led by Stalin.
 
 ## About Projekt Kateryna ##
-- Our manifesto: Undoing Russian imperialist propaganda (en uk)
-- Projekt Kateryna presentation slides (en uk)
-- Kateryna and [Finnish presidential candidate] Pekka Haavisto (en uk)
-- Online lecture at [Charkiv] Karazin university (en uk)
-- Further background information (Purpose, the Team, Contact details etc.) (en uk)
+- Our manifesto: Undoing Russian imperialist propaganda ([en](/undoing-russian-imperialist-propaganda/) [uk](/uk/undoing-russian-imperialist-propaganda/))
+- Projekt Kateryna presentation slides ([en](/presentation-slides/) [uk](/uk/presentation-slides/))
+- Kateryna and [Finnish presidential candidate] Pekka Haavisto ([en](/mtg_haavisto/) [uk](/uk/mtg_haavisto/))
+- Online lecture at [Charkiv] Karazin university ([en](/kaj-lecture-at-karazin/) [uk](/uk/kaj-lecture-at-karazin/))
+- Further background information (Purpose, the Team, Contact details etc.) ([en](/about/) [uk](/uk/about/))
 
 [^1]: We explicitly mention Finland, Baltics, and Poland for a reason. These countries are "privileged" in having more insights. In particular, these three entities stand out because they have something in common in that they are all EU and NATO members, and yet slightly different in their post-WW II relationship to the Soviet Union. Finland was never behind the Iron Curtain. Poland was, but wasn't part of the Soviet Union. The Baltics were Soviet states. So Finland, the Baltics and Poland have three flavours, three variations in experiences and narrative, towards Russification.
 

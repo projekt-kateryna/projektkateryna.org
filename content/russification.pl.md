@@ -40,12 +40,12 @@ W razie potrzeby dodamy języki, ale na początek podajemy listę w tych języka
 * 1914, 1916 - Kampania rusyfikacyjna na zachodniej Ukrainie, zakaz języka ukraińskiego, oświaty, kościoła.
 * 1932–1933 – Hołomodor, szacunkowo od 4 do 7 milionów Ukraińców zginęło z głodu podczas ludobójstwa pod przewodnictwem Stalina.
 
-## About Projekt Kateryna ##
-- Our manifesto: Undoing Russian imperialist propaganda (en uk)
-- Projekt Kateryna presentation slides (en uk)
-- Kateryna and [Finnish presidential candidate] Pekka Haavisto (en uk)
-- Online lecture at [Charkiv] Karazin university (en uk)
-- Further background information (Purpose, the Team, Contact details etc.) (en uk)
+## O Projekcie Kateryna ##
+- Nasz manifest: Cofnięcie rosyjskiej propagandy imperialistycznej ([en](/undoing-russian-imperialist-propaganda/) [uk](/uk/undoing-russian-imperialist-propaganda/))
+- Slajdy do prezentacji Projektu Kateryna ([en](/presentation-slides/) [uk](/uk/presentation-slides/))
+- Kateryna i [fiński kandydat na prezydenta] Pekka Haavisto ([en](/mtg_haavisto/) [uk](/uk/mtg_haavisto/))
+- Wykład online na uniwersytecie [Charków] Karazin ([en](/kaj-lecture-at-karazin/) [uk](/uk/kaj-lecture-at-karazin/))
+- Dalsze informacje ogólne (Cel, Zespół, Dane kontaktowe itp.) ([en](/about/) [uk](/uk/about/))
 
 [^1]: Nie bez powodu wyraźnie wspominamy o Finlandii, krajach bałtyckich i Polsce. Kraje te są „uprzywilejowane” pod względem posiadania większej liczby spostrzeżeń. W szczególności te trzy podmioty wyróżniają się tym, że mają coś wspólnego w tym, że wszystkie są członkami UE i NATO, a jednocześnie nieco różnią się w swoich powojennych stosunkach ze Związkiem Radzieckim. Finlandia nigdy nie była za żelazną kurtyną. Polska była, ale nie była częścią Związku Radzieckiego. Kraje bałtyckie były państwami radzieckimi. Zatem Finlandia, kraje bałtyckie i Polska mają trzy odmiany, trzy odmiany doświadczeń i narracji w kierunku rusyfikacji.
 
