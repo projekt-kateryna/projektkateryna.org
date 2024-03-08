@@ -10,7 +10,7 @@ images: ["/images/what-is-wikipedia.png"]
 showimage: false
 ---
 
-Together with Wikimedia Ukraine and several participants, Projekt Kateryna participated in February 2024 in two online workshops on how to edit Wikipedia articles about Ukraine. The recorded videos and material (in Ukrainian) are available below.
+In February 2024, Wikimedia Ukraine organized two webinars for Projekt Kateryna's participants on how to edit Ukraine on Wikipedia. The recorded videos and material (in Ukrainian) are available below.
 
 # Workshop 1: How to present Ukraine on Wikipedia (19 February 2024)
 {{< youtube OrARjQEKNAY >}}
