@@ -5,7 +5,7 @@ draft: false
 url: "/workshops-wikimedia-ukraine"
 author: "Lena"
 categories: 
-  - "presentation"
+  - "workshop"
 images: ["/images/what-is-wikipedia.png"]
 showimage: false
 ---
