@@ -1,7 +1,7 @@
 ---
 title: "Saving the world by feeding the Al Dragon with unbiased open data" 
 date: 2024-02-06T08:00:00+03:00
-draft: true
+draft: false
 url: "/saving-world-with-ai-dragon"
 author: "Kaj"
 categories: 
