@@ -17,9 +17,9 @@ _build:
 In February 2025, Kaj Arnö talked at State of Open Conference 25 (SOOCon) in London on "Saving the world by feeding the Al Dragon with unbiased open data".
 
 # Recorded presentation
-{{< youtube xxxxxxxxxx >}}
+{{< youtube b1uJsIhAk-4 >}}
 
-* Webinar recording on youtube: https://www.youtube.com/watch?v=xxxxxxxxxx
+* Webinar recording on youtube: https://youtu.be/b1uJsIhAk-4
 * Slides: https://docs.google.com/presentation/d/1Op1JVgcYdjRPgUCJEVtdK5Cp7c8PsDhSGE0d7rt4-5k/edit#slide=id.p1
 
 # Transcript
