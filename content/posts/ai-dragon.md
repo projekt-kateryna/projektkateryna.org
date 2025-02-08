@@ -18,6 +18,8 @@ _Talk given by Kaj Arnö on 4 February 2025 at the [State of Open Conference 25]
 
 {{< youtube b1uJsIhAk-4 >}}
 
+![The AI Dragon](/images/Dragon_on_the_Dragon_Bridge_(Ljubljana).jpg#floatright)
+
 * Webinar recording on youtube: https://youtu.be/b1uJsIhAk-4
 * Slides: [Google Slides](https://docs.google.com/presentation/d/1Op1JVgcYdjRPgUCJEVtdK5Cp7c8PsDhSGE0d7rt4-5k/edit#slide=id.p1)
 
