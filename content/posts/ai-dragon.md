@@ -171,4 +171,4 @@ So we just need to feed the neutral point of view information. And if we feed it
 
 ## Moderator conclusion
 
-Thank you. That was an absolutely fantastic talk. 
+_Thank you. That was an absolutely fantastic talk._ 
