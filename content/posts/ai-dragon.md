@@ -96,15 +96,31 @@ On top, most Ukrainians of the 1800s are classified as Russians in Wikipedia. I 
 
 The way to correct this is cultural self-defense, at less than 0.1% of the cost of the military expense now used to fix stuff that we screwed up. And I still remind you that history is not over yet. And this is [__Projekt Kateryna__](https://projektkateryna.org), named after a painting by __Taras Shevchenko__, which is trying to rectify things by, and this is an expression, _decolonization of Ukrainian history in Wikipedia_.
 
-So examples of this. Wikipedia has partial truths. It's not blatant lies. And those of you very interested in history might know that there's a guy called [__Ivan Mazepa__](https://wikipedia.org/en/Ivan_Mazepa) who sided with "us", the Nordics, the Scandinavians, in Poltava, 1709. Well, it's still being fought over in Ukraine, whether he betrayed Russia or whether his colleagues betrayed Ukraine by siding with Sweden. In 1709. And that needs to be portrayed properly. There's a lack of nuance in how things are portrayed. 
+So examples of this. Wikipedia has partial truths. It's not blatant lies. And those of you very interested in history might know that there's a guy called [__Ivan Mazepa__](https://wikipedia.org/en/Ivan_Mazepa) who sided with "us", the Nordics, the Scandinavians, in the [_Battle of Poltava_](https://en.wikipedia.org/wiki/Battle_of_Poltava), 1709. Well, it's still being fought over in Ukraine, whether Mazepa betrayed Russia – or whether his colleagues betrayed Ukraine – by siding with Sweden. In 1709. Strong unresolved feelings need facts to be portrayed properly. Now, there's a lack of nuance in how facts related to the Ukrainian nation are portrayed. 
 
-14: Here there's a picture also from Wikipedia Foundation about a Viking named Rurik, who was the person who founded in 1870. Well, what exactly did he found? Was it Russia? Was it Kiev? Was it Ukraine? And these things are a form of propaganda by a thousand cuts, because it's not a question of fixing one thing, it's all of the things how Ukraine, in this case, is portrayed on Wikipedia.
+Here's a picture, also from Wikipedia Foundation, about a Viking named [__Rurik__](https://en.wikipedia.org/Rurik), who was the person who in A.D. 870 founded ... well, what exactly did he found? Was it Russia? Was it Kiev? Was it Ukraine? 
 
-15: The consequence of not portraying it properly, by copying how the Russians have depicted Ukraine over the centuries, is what happened in 2008 and 2014. It's the lazy truth. Those who really should be the most educated people in politics, in journalism, they go to the place where they believe that the truth exists, which would then have been Wikipedia, and now is AI. And if Wikipedia mainly provides partial truth, how can neutral point of view prevail? 
+Currently, the portrayal of Ukrainian history is frequently a form of Russian propaganda by a thousand cuts. It's not a question of fixing one Wikipedia article, it's all of the articles where Ukraine, in this case, is portrayed on Wikipedia.
 
-16: The solution, though, there is a solution, and that is the title of this presentation, To Feed the AI Dragon. The good news is that we can influence open data, Wikipedia, Wikidata. And they have a goal of a neutral point of view. The value here is the credibility by Wikipedia and Wikidata, and the accessibility of it. There's a platform for it. And it is one of the best sources of training data for AI. So just go fix it. 
+### The final consequence of misrepresented history can be: War
 
-17: We have nearly all the infrastructure. We have the universities and scholars providing this truth, or neutral point of view. Here, the very good authority on this is Timothy Snyder, a professor at Yale. And the technology exists. So Wikipedia exists. Vector databases exist. AI, retrieval augmented generation. We have Python scripts. So what is missing? Well, what's missing is that the collective West, to use an expression favored in Russia, is missing an institution with the task to feed this AI dragon with neutral point of view. And to provide a vaccine against the propaganda that exists all across the partial truth by curating neutral point of view data into Wikipedia. 
+The consequence of not portraying it properly, by copying how the Russians have depicted Ukraine over the centuries, is what happened in 2008 and 2014. It's the lazy truth. 
+
+Those who really should be the most educated people in politics, in journalism, they go to the place where they believe that facts are most credibly represented, which would then have been Wikipedia, and now frequently also AI. And if Wikipedia mainly provides a partial truth, __how can neutral point of view prevail__? 
+
+## The solution: Portraying neutral facts on open data
+
+The solution, though – and there is a solution – is described in the title of this presentation, _To Feed the AI Dragon_. The good news is that __we can influence open data, Wikipedia, Wikidata__. And they have a goal of a __neutral point of view__. The value here is the __credibility__ by Wikipedia and Wikidata, and the __accessibility__ of it. There's a platform for it. And it is one of the best sources of training data for AI. So _just go fix it_. 
+
+### We have nearly all necessary tools
+
+We have nearly all the __infrastructure__. We have the __universities__ and scholars providing this truth, or neutral point of view. Here, the very good authority on this is [__Timothy Snyder__](https://en.wikipedia.org/wiki/Timothy_Snyder), a professor at Yale. 
+
+And the __technology__ exists. So Wikipedia exists. Vector databases exist. AI, retrieval augmented generation. We have Python scripts. 
+
+### We miss the institution to supply the Neutral Point of View
+
+So what is missing? Well, what's missing is that the collective West, to use an expression favored in Russia, is missing an institution with the task to feed this AI dragon with neutral point of view. And to provide a __vaccine against the propaganda__ that exists, all across the partial truth, by curating neutral point of view data into Wikipedia. 
 
 18: I think such an institution should be named after Denis Diderot, who's the guy who originated the concept of an encyclopedia. The question then would be, who should be this organization? Where should it be? Should it be in your wonderful country here in the UK? I think you have a good track record of influencing world history, or at least attempting at it, and you were one of the first to realize what was happening in Kiev in Ukraine in 2022. I think EU very much has it as its interest for this to happen. Otherwise, the old adage about first they came for the communists. I'm not one, so I didn't do anything. Then they came for the homosexuals. Well, I'm not one, so I didn't do anything about it. Then they came for the Jews. Well, I'm not a Jew, so I didn't do anything about it. That will happen. It will not stop at Ukraine. The US hopefully should have this as their self-interest. And even because this is a question of cultural self-defense, I would imagine that even an organization of the type of NATO should have it as its interest. 
 
