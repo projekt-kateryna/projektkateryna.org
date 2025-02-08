@@ -20,7 +20,7 @@ Talk given by Kaj Arnö on 4 February 2025 at the State of Open Conference 25 (S
 {{< youtube b1uJsIhAk-4 >}}
 
 * Webinar recording on youtube: https://youtu.be/b1uJsIhAk-4
-* Slides: [Google Slides] (https://docs.google.com/presentation/d/1Op1JVgcYdjRPgUCJEVtdK5Cp7c8PsDhSGE0d7rt4-5k/edit#slide=id.p1)
+* Slides: [Google Slides](https://docs.google.com/presentation/d/1Op1JVgcYdjRPgUCJEVtdK5Cp7c8PsDhSGE0d7rt4-5k/edit#slide=id.p1)
 
 ## Moderator
 
@@ -30,7 +30,7 @@ We have an amazing talk from a fantastic speaker coming up. This is Saving the W
 
 ## Introduction
 
-Indeed, my goal is to save the world by feeding the AI dragon with unbiased open data. I'm (Kaj Arnö)[https://wikipedia.org/en/Kaj_Arnö], and I'm the CEO of (MariaDB Foundation)[https://mariadb.org]. And I've worked with free and open source software all of this century, and in that process I've become convinced that openness is a powerful force for good, also when it comes to open data. 
+Indeed, my goal is to save the world by feeding the AI dragon with unbiased open data. I'm [Kaj Arnö](https://wikipedia.org/en/Kaj_Arnö), and I'm the CEO of [MariaDB Foundation](https://mariadb.org). And I've worked with free and open source software all of this century, and in that process I've become convinced that openness is a powerful force for good, also when it comes to open data. 
 
 ## Background: Finland, a country with two languages and cultures
 
@@ -42,7 +42,7 @@ And that has given the background for the much larger scope of not just saving l
 
 ## Background: What is MariaDB, the relational database?
 
-As for MariaDB, it's an open source relational database management system, and that's the reason why I am at Open UK. But for the purposes of this presentation, there's only three things I'd like you to know about MariaDB. 
+As for [MariaDB](https://en.wikipedia.org/wiki/MariaDB), it's an open source relational database management system, and that's the reason why I am at Open UK. But for the purposes of this presentation, there's only three things I'd like you to know about MariaDB. 
 
 1. First, I think it's fair to portray it as the future of MySQL.
 2. Second, it has the infrastructure needed for AI, AI in the form of vectors. The most prolific use case there is to create RAG applications, which means that the large language models are answering the questions, not based on its general training data, but on the specific data you've provided as the creator of that application.
