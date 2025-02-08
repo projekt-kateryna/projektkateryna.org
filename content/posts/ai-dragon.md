@@ -9,7 +9,7 @@ categories:
 images: ["/images/ai-dragon.png"]
 showimage: false
 _build:
-  list: false
+  list: true
   publishResources: true
   render: true
 ---
