@@ -30,13 +30,13 @@ We have an amazing talk from a fantastic speaker coming up. This is Saving the W
 
 ## Introduction
 
-Indeed, my goal is to save the world by feeding the AI dragon with unbiased open data. I'm Kaj Arnö, and I'm the CEO of MariaDB Foundation. And I've worked with free and open source software all of this century, and in that process I've become convinced that openness is a powerful force for good, also when it comes to open data. 
+Indeed, my goal is to save the world by feeding the AI dragon with unbiased open data. I'm (Kaj Arnö)[https://wikipedia.org/en/Kaj_Arnö], and I'm the CEO of (MariaDB Foundation)[https://mariadb.org]. And I've worked with free and open source software all of this century, and in that process I've become convinced that openness is a powerful force for good, also when it comes to open data. 
 
 ## Background: Finland, a country with two languages and cultures
 
 I'm a dual citizen of both Finland, my native Finland, and Germany, and in that process I've noted that Finland isn't properly, or hasn't properly been represented in open data. Finland is a country with two languages, and I noted that Swedish Finland hasn't been sufficiently described. 
 
-You might know Swedish Finland by two of its representatives, ''Linus Torvalds'', the father of Linux, and ''Alexander Stubb'', our current president. And I founded a project to fix this in 2017 called (Projekt Fredrika)[https://projektfredrika.fi]. 
+You might know (Swedish Finland)[https://en.wikipedia.org/wiki/Swedish-speaking_population_of_Finland] by two of its representatives, _Linus Torvalds_, the father of Linux, and _Alexander Stubb_, our current president. And I founded a project to fix this in 2017 called (__Projekt Fredrika__)[https://projektfredrika.fi]. 
 
 And that has given the background for the much larger scope of not just saving little Swedish Finland, but saving the world. 
 
