@@ -122,20 +122,56 @@ And the __technology__ exists. So Wikipedia exists. Vector databases exist. AI, 
 
 So what is missing? Well, what's missing is that the collective West, to use an expression favored in Russia, is missing an institution with the task to feed this AI dragon with neutral point of view. And to provide a __vaccine against the propaganda__ that exists, all across the partial truth, by curating neutral point of view data into Wikipedia. 
 
-18: I think such an institution should be named after Denis Diderot, who's the guy who originated the concept of an encyclopedia. The question then would be, who should be this organization? Where should it be? Should it be in your wonderful country here in the UK? I think you have a good track record of influencing world history, or at least attempting at it, and you were one of the first to realize what was happening in Kiev in Ukraine in 2022. I think EU very much has it as its interest for this to happen. Otherwise, the old adage about first they came for the communists. I'm not one, so I didn't do anything. Then they came for the homosexuals. Well, I'm not one, so I didn't do anything about it. Then they came for the Jews. Well, I'm not a Jew, so I didn't do anything about it. That will happen. It will not stop at Ukraine. The US hopefully should have this as their self-interest. And even because this is a question of cultural self-defense, I would imagine that even an organization of the type of NATO should have it as its interest. 
+I think such an institution should be named after [__Denis Diderot__](https://en.wikipedia.org/Denis_Diderot), who's the guy who originated the concept of an encyclopedia. 
 
-19: So my call to arms, call to action for you is, please help me navigate the collective West to find and to found and to fund the appropriate institution for this. Thank you. We have time for questions. 
+The question then would be, who should form this organisation? __Where should it be based__? Should it be in your wonderful country here in __the UK__? I think you have a good track record of influencing world history, or at least attempting at it – you were one of the first to realise what was happening in Kiev in Ukraine in 2022. 
 
-So what should we do when the AI dragon gives us results we do not like?
+I think __the EU__ very much has it as its interest for this to happen. 
 
-We cannot control how these AI dragons are exactly being fed. But what we can do is we can do exactly what I'm proposing here, is feeding it with proper open data. And I think most organizations that train their dragons are only thankful for the credibility and the curation done by Wikimedia organizations. So we can exactly do what I'm proposing here, feeding it with knowledge, non-propaganda. 
+### First they came ...
 
-What are the practical steps that anybody in this room can do to help me organize this? 
+If we don't do anything about this, the old adage will apply: "_[First they came](https://en.wikipedia.org/wiki/First_They_Came) for the communists. I'm not one, so I didn't do anything. Then they came for the homosexuals. Well, I'm not one, so I didn't do anything about it. Then they came for the Jews. Well, I'm not a Jew, so I didn't do anything about it. Now they came for me, and there is no-one left to defend me._" 
 
-Is to identify those people who have either plentiful money or connections to the organizations in which interest this really should be, to connect us with them. I think this is an interest of society at large, at least the freedom, free liberal West should be interested in this. And I think it should be self-evident. I am searching for the right people to talk to. So if you know about whom I should be talking to, please use the email address on the LinkedIn there and help by connecting. 
+That will happen again. It will not stop at Ukraine. 
 
-So the question is how do we define neutral point of view? 
+__The US__ hopefully should have this as their self-interest. And even because this is a question of cultural self-defense, I would imagine that even an organisation of the type of __NATO__ should have it as its interest. 
 
-And my happy answer is I don't have to. Wikimedia Foundation has already defined this and Wikipedia already has a mechanism for mediating between how things are being described. There is a mechanism that has been in place for describing Israel and Palestine for years and the equilibrium has been found. So that's a problem that is sort of already solved and outside the scope of this. So we just need to feed the neutral point of view information. And if we feed it with something that isn't neutral, we will be reprimanded and it will not stay in Wikipedia. So there is this control mechanism. 
+### My call to arms: Help me navigate the powers of The Collective West!
+
+So my call to arms, my call to action for you is: please help me navigate the collective West __to find and to found and to fund the appropriate institution__ for this. 
+
+Thank you. 
+
+## Audience questions
+
+We have time for questions. 
+
+### What should we do when the AI dragon gives us results we do not like?
+
+Q: What should we do when the AI dragon gives us results we do not like?
+
+A: We cannot control how these AI dragons are exactly being fed. But what we can do is exactly what I'm proposing here: feed it with proper open data. 
+
+I think most organisations that train their dragons are only thankful for the credibility and the curation done by Wikimedia organisations. So we can exactly do what I'm proposing here, feed the AI dragon with knowledge, non-propaganda. 
+
+### How can anybody in this room help in making this happen?
+
+Q: What are the practical steps that anybody in this room can do to help me organise this? 
+
+A: It is to __identify the people__ who have either __plentiful money__ or __connections to the organisations__ in which interest this really should be (governments of UK, EU, US, NATO), to connect us with them. I think this is __an interest of society at large__, at least the freedom loving, free liberal West should be interested in this. 
+
+And I think it should be self-evident. I am searching for the right people to talk to. So if you know about whom I should be talking to, please use the email address and [my LinkedIn address](https://linkedin.com/in/kajarno/) on the slides there and help by connecting. 
+
+### Who defines Neutral Point of Viee
+
+Q: The question is: how do we define neutral point of view? 
+
+A: My happy answer is: we don't have to. [__Wikimedia Foundation has already defined NPOV__](https://en.wikipedia.org/wiki/Wikipedia:Neutral_point_of_view) and Wikipedia already has a mechanism for mediating between how things are being described. 
+
+There is a mechanism that has been in place for describing Israel and Palestine for years and the equilibrium has been found. So that's a problem that is already solved and outside the scope of the feeding the AI dragon problem. 
+
+So we just need to feed the neutral point of view information. And if we feed it with something that isn't neutral, we will be reprimanded and it will not stay in Wikipedia. So there is this control mechanism. 
+
+## Moderator conclusion
 
 Thank you. That was an absolutely fantastic talk. 
