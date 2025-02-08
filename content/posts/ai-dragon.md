@@ -14,17 +14,19 @@ _build:
   render: true
 ---
 
-In February 2025, Kaj Arnö talked at State of Open Conference 25 (SOOCon) in London on "Saving the world by feeding the Al Dragon with unbiased open data".
+Talk given by Kaj Arnö on 4 February 2025 at the State of Open Conference 25 (SOOCon) in London.
 
-# Recorded presentation
+# Saving the world by feeding the Al Dragon with unbiased open data
 {{< youtube b1uJsIhAk-4 >}}
 
 * Webinar recording on youtube: https://youtu.be/b1uJsIhAk-4
 * Slides: https://docs.google.com/presentation/d/1Op1JVgcYdjRPgUCJEVtdK5Cp7c8PsDhSGE0d7rt4-5k/edit#slide=id.p1
 
-# Transcript
+## Intro given
 
-1: Okay, welcome back everyone to the Open Data Track. As a reminder, this is the Open Data Track. If you're expecting AI, open source, or an entirely different conference, you're in the wrong place. But if you are here for open data, then you are definitely in the right place. We have an amazing talk from a fantastic speaker coming up. This is Saving the World by Feeding the AI Dragon with Unbiased Open Data, a subject which I am sure we're all incredibly interested in. Please give a very warm round of applause to Kaj. 
+Okay, welcome back everyone to the Open Data Track. As a reminder, this is the Open Data Track. If you're expecting AI, open source, or an entirely different conference, you're in the wrong place. But if you are here for open data, then you are definitely in the right place. 
+
+We have an amazing talk from a fantastic speaker coming up. This is Saving the World by Feeding the AI Dragon with Unbiased Open Data, a subject which I am sure we're all incredibly interested in. Please give a very warm round of applause to Kaj. 
 
 2: Indeed, my goal is to save the world by feeding the AI dragon with unbiased open data. I'm Kaj Arnö, and I'm the CEO of MariaDB Foundation. And I've worked with free and open source software all of this century, and in that process I've become convinced that openness is a powerful force for good, also when it comes to open data. So I'm a dual citizen of both Finland, my native Finland, and Germany, and in that process I've noted that Finland isn't properly, or hasn't properly been represented in open data. Finland is a country with two languages, and I noted, that Swedish Finland hasn't been sufficiently described. You might know Swedish Finland by two of its representatives, Linus Torvalds, the father of Linux, and Alexander Stubb, our current president. And I founded a project to fix this in 2017 called Projekt Fredrika. And that has given the background for the much larger scope of not just saving little Swedish Finland, but saving the world. 
 
