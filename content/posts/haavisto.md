@@ -5,7 +5,7 @@ draft: false
 url: "/mtg_haavisto"
 categories: 
   - "meetings"
-images: ["/images/haavisto-arno-2023-08-1000px.jpg"]
+images: ["/images/haavisto-arno-2023-08-800px.jpg"]
 showimage: true
 ---
 
