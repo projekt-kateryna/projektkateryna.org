@@ -6,7 +6,7 @@ url: "/saving-world-with-ai-dragon"
 author: "Kaj"
 categories: 
   - "presentation"
-images: ["/images/ai-dragon.png"]
+images: ["/images/ai-dragon.jpeg"]
 showimage: false
 _build:
   list: true
