@@ -20,21 +20,47 @@ Talk given by Kaj Arnö on 4 February 2025 at the State of Open Conference 25 (S
 {{< youtube b1uJsIhAk-4 >}}
 
 * Webinar recording on youtube: https://youtu.be/b1uJsIhAk-4
-* Slides: https://docs.google.com/presentation/d/1Op1JVgcYdjRPgUCJEVtdK5Cp7c8PsDhSGE0d7rt4-5k/edit#slide=id.p1
+* Slides: [Google Slides] (https://docs.google.com/presentation/d/1Op1JVgcYdjRPgUCJEVtdK5Cp7c8PsDhSGE0d7rt4-5k/edit#slide=id.p1)
 
-## Intro given
+## Moderator
 
 Okay, welcome back everyone to the Open Data Track. As a reminder, this is the Open Data Track. If you're expecting AI, open source, or an entirely different conference, you're in the wrong place. But if you are here for open data, then you are definitely in the right place. 
 
 We have an amazing talk from a fantastic speaker coming up. This is Saving the World by Feeding the AI Dragon with Unbiased Open Data, a subject which I am sure we're all incredibly interested in. Please give a very warm round of applause to Kaj. 
 
-2: Indeed, my goal is to save the world by feeding the AI dragon with unbiased open data. I'm Kaj Arnö, and I'm the CEO of MariaDB Foundation. And I've worked with free and open source software all of this century, and in that process I've become convinced that openness is a powerful force for good, also when it comes to open data. So I'm a dual citizen of both Finland, my native Finland, and Germany, and in that process I've noted that Finland isn't properly, or hasn't properly been represented in open data. Finland is a country with two languages, and I noted, that Swedish Finland hasn't been sufficiently described. You might know Swedish Finland by two of its representatives, Linus Torvalds, the father of Linux, and Alexander Stubb, our current president. And I founded a project to fix this in 2017 called Projekt Fredrika. And that has given the background for the much larger scope of not just saving little Swedish Finland, but saving the world. 
+## Introduction
 
-3: As for MariaDB, it's an open source relational database management system, and that's the reason why I am at Open UK. But for the purposes of this presentation, there's only three things I'd like you to know about MariaDB. I think it's fair to portray it as the future of MySQL. Second, it has the infrastructure needed for AI, AI in the form of vector. The most prolific use case there is to create RAG applications, which means that the large language models are answering the questions, not based on its general training data, but on the specific data you've provided as the creator of that application. And third, MariaDB is the database used by Wikipedia. But now for saving the world. 
+Indeed, my goal is to save the world by feeding the AI dragon with unbiased open data. I'm Kaj Arnö, and I'm the CEO of MariaDB Foundation. And I've worked with free and open source software all of this century, and in that process I've become convinced that openness is a powerful force for good, also when it comes to open data. 
 
-4: The 24th of February, three years ago, took the world by surprise. It shouldn't have. With hindsight, we had all the foresight needed to have prevented that happening in the Ukraine. And this foresight we should have had for centuries and at least decades, but it's not as if we didn't get alarm bells ringing. 
+## Background: Finland, a country with two languages and cultures
 
-5: So one of the first alarm bells was in 2008, when Georgia was attacked by Russia. Well, that's sort of far away. And have you been to Georgia? I don't know where it is. Perhaps it's not important. There were few exceptions to the general attitude, which was, ah, these alarm bells are not important. And one of those exceptions happened to be Finland's then foreign secretary, Alexander Stubb. Now our president. 
+I'm a dual citizen of both Finland, my native Finland, and Germany, and in that process I've noted that Finland isn't properly, or hasn't properly been represented in open data. Finland is a country with two languages, and I noted that Swedish Finland hasn't been sufficiently described. 
+
+You might know Swedish Finland by two of its representatives, ''Linus Torvalds'', the father of Linux, and ''Alexander Stubb'', our current president. And I founded a project to fix this in 2017 called (Projekt Fredrika)[https://projektfredrika.fi]. 
+
+And that has given the background for the much larger scope of not just saving little Swedish Finland, but saving the world. 
+
+## Background: What is MariaDB, the relational database?
+
+As for MariaDB, it's an open source relational database management system, and that's the reason why I am at Open UK. But for the purposes of this presentation, there's only three things I'd like you to know about MariaDB. 
+
+1. First, I think it's fair to portray it as the future of MySQL.
+2. Second, it has the infrastructure needed for AI, AI in the form of vectors. The most prolific use case there is to create RAG applications, which means that the large language models are answering the questions, not based on its general training data, but on the specific data you've provided as the creator of that application.
+3. Third, MariaDB is the database used by Wikipedia.
+
+But now for saving the world. 
+
+## The premise: The war on Ukraine should have been no surprise
+
+The 24th of February, three years ago, took the world by surprise. 
+
+It shouldn't have. 
+
+With hindsight, we had all the foresight needed to have prevented that happening in the Ukraine. And this foresight we had had for centuries, but it's not as there hadn't been extra alarm bells ringing in the last decades. 
+
+## There were recent alarm bells – but they went unheard
+
+One of the first alarm bells was in 2008, when Georgia was attacked by Russia. Our reaction: "Well, that's sort of far away. And have you been to Georgia? I don't know where it is. Perhaps it's not important." There were few exceptions to the general attitude, which was, ah, these alarm bells are not important. And one of those exceptions happened to be Finland's then foreign secretary, Alexander Stubb. Now our president. 
 
 6: There were other alarm bells in 2013 in the Ukraine. In Ukraine, Euromaidan should have been a lesson for all of us who didn't do our homework when learning about the history of Ukraine to see that they consider themselves to be part of Europe. We didn't do our homework. And then in 2014, when little green men came to Crimea, the alarm bells still stayed too silent, and Angela Merkel played the role of Neville Chamberlain, trying to appease dictatorship by presuming that common good would be a priority for them. It wasn't. 
 
