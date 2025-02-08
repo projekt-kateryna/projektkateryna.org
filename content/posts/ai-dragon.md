@@ -36,7 +36,7 @@ Indeed, my goal is to save the world by feeding the AI dragon with unbiased open
 
 I'm a dual citizen of both Finland, my native Finland, and Germany, and in that process I've noted that Finland isn't properly, or hasn't properly been represented in open data. Finland is a country with two languages, and I noted that Swedish Finland hasn't been sufficiently described. 
 
-You might know (Swedish Finland)[https://en.wikipedia.org/wiki/Swedish-speaking_population_of_Finland] by two of its representatives, _Linus Torvalds_, the father of Linux, and _Alexander Stubb_, our current president. And I founded a project to fix this in 2017 called (__Projekt Fredrika__)[https://projektfredrika.fi]. 
+You might know [Swedish Finland](https://en.wikipedia.org/wiki/Swedish-speaking_population_of_Finland) by two of its representatives, _Linus Torvalds_, the father of Linux, and _Alexander Stubb_, our current president. And I founded a project to fix this in 2017 called [__Projekt Fredrika__](https://projektfredrika.fi). 
 
 And that has given the background for the much larger scope of not just saving little Swedish Finland, but saving the world. 
 
@@ -44,9 +44,9 @@ And that has given the background for the much larger scope of not just saving l
 
 As for [MariaDB](https://en.wikipedia.org/wiki/MariaDB), it's an open source relational database management system, and that's the reason why I am at Open UK. But for the purposes of this presentation, there's only three things I'd like you to know about MariaDB. 
 
-1. First, I think it's fair to portray it as the future of MySQL.
-2. Second, it has the infrastructure needed for AI, AI in the form of vectors. The most prolific use case there is to create RAG applications, which means that the large language models are answering the questions, not based on its general training data, but on the specific data you've provided as the creator of that application.
-3. Third, MariaDB is the database used by Wikipedia.
+1. First, I think it's fair to portray MariaDB as __the future of MySQL__.
+2. Second, it has the __infrastructure needed for AI__, AI in the form of vectors. The most prolific use case there is to create RAG applications, which means that the large language models are answering the questions, not based on its general training data, but on the specific data you've provided as the creator of that application.
+3. Third, MariaDB is __the database used by Wikipedia__.
 
 But now for saving the world. 
 
@@ -58,25 +58,45 @@ It shouldn't have.
 
 With hindsight, we had all the foresight needed to have prevented that happening in the Ukraine. And this foresight we had had for centuries, but it's not as there hadn't been extra alarm bells ringing in the last decades. 
 
-## There were recent alarm bells – but they went unheard
+### There were recent alarm bells – but they went unheard
 
-One of the first alarm bells was in 2008, when Georgia was attacked by Russia. Our reaction: "Well, that's sort of far away. And have you been to Georgia? I don't know where it is. Perhaps it's not important." There were few exceptions to the general attitude, which was, ah, these alarm bells are not important. And one of those exceptions happened to be Finland's then foreign secretary, Alexander Stubb. Now our president. 
+One of the first alarm bells was in __2008__, when __Georgia__ was attacked by Russia. Our reaction: "_Well, that's sort of far away. And have you been to Georgia? I don't know where it is. Perhaps it's not important._" There were few exceptions to the general attitude, which was, "_ah, these alarm bells are not important_". And one of those exceptions happened to be Finland's then foreign secretary, Alexander Stubb, now our president. 
 
-6: There were other alarm bells in 2013 in the Ukraine. In Ukraine, Euromaidan should have been a lesson for all of us who didn't do our homework when learning about the history of Ukraine to see that they consider themselves to be part of Europe. We didn't do our homework. And then in 2014, when little green men came to Crimea, the alarm bells still stayed too silent, and Angela Merkel played the role of Neville Chamberlain, trying to appease dictatorship by presuming that common good would be a priority for them. It wasn't. 
+There were other alarm bells in __2013__ in the Ukraine. In Ukraine, __Euromaidan__ should have been a lesson for all of us who didn't do our homework when learning about the history of Ukraine to see that they consider themselves to be part of Europe. We didn't do our homework. And then in __2014__, when little green men came to __Crimea__, the alarm bells still stayed too silent, and __Angela Merkel__ played the role of __Neville Chamberlain__, trying to appease dictatorship by presuming that common good would be a priority for them. It wasn't. 
 
-7: So in 2022, the armrests then really did go off, but very late and very slowly and very partially. The reason for this is our, our lack of understanding of history through three centuries of successful portrayal of Ukraine as a non-country, non-language, non-culture. It's probably Russia, isn't it? It's outside the general education in Western Europe. 
+### Finally in 2022, alarms went off, but only slowly 
 
-8: My two central claims for this is that, in hindsight, had the West reacted properly when the alarm bells should have gone off in 2008 and 2014, there wouldn't have been a full-out war in 2022. And this is not much of a hindsight. It is not a question of had we known then what we know now. It is a question of had we used then what we really should have known, had the past been known, and part of the general education, we would have reacted properly. 
+So in __2022__, the armbells then really did go off, but very late and very slowly and very partially. The reason for this is __our lack of understanding of history__ through three centuries of successful portrayal of Ukraine as a non-country, non-language, non-culture. "_Ukraine is probably a part of Russia, isn't it?_" Ukraine was __outside the general education__ in Western Europe. 
 
-9: With the end outcome that military expenditure by the West is now in the hundreds of billions of whatever currency units, not to speak of a million human lives. But, tell you what, history isn't over yet. This isn't the last time when such things can happen. Foresight is still needed. 
+## In hindsight, we had all ingredients for foresight
 
-10: History is always written by the victors, and those of you with A, good eyesight, and B, very good knowledge of geography, will notice that this picture, which is uploaded to Wikimedia, is portraying Crimea as a part of Russia. Let's hope that victory doesn't happen. 
+My two central claims around this is that, in hindsight, had the West reacted properly when the alarm bells should have gone off in 2008 and 2014, there wouldn't have been a full-out war in 2022. And this is not much of a hindsight. It is not a question of "had we known then what we know now". It is a question of had we __used__ then what we really should have known already. Had the past been known, and understood as part of the general education, we would have reacted properly. 
 
-11: It's a very different situation if you look at how Finland is portrayed on Wikipedia and Ukraine. So if you look at nationalism, in Finland it's something where we sort of pat ourselves on the shoulder, regardless of which language we're portrayed in. It's national awakening. It's the Russian eagle that tries to rob us of rule of law. And we have great poets and great composers, painters, and we did honorable resistance. against Russia in the 19th century. In the Ukraine, well, they had nationalism too, but that was pogroms, and it was the root of Nazism and violence and lots of dissonance. Yet it's the same history. It's the same type of thing that happened in Ukraine and in Finland, only we didn't lose, they did. Most Ukrainians are classified as Russians. I am happy to note that no Finns of that era are classified as Russians. 
+### Now, the cost of lack of general education is hundreds of billions €/$/£
 
-12: The way to correct this is cultural self-defense at less than 0.1% of the cost of the military expense now to fix stuff that we screwed up. And I still remind you that history is not over yet. And this is a Project Kateryna, named after a painting by Taras Shevchenko, which is trying to rectify things by, and this is an expression, decolonization of Ukrainian history in Wikipedia. 
+With the end outcome that military expenditure by the West is now in the hundreds of billions of whatever currency units, not to speak of __a million lost human lives__. But, tell you what, history isn't over yet. This isn't the last time when such things can happen. __Foresight is still needed__. 
 
-13: So examples of this. Wikipedia has partial truths. It's not blatant lies. And those of you very interested in history might know that there's a guy called Ivan Mazepa who sided with us, being the Nordics, the Scandinavians, in Poltava, 1709. Well, it's still being fought over in Ukraine, whether he betrayed Russia or whether his colleagues betrayed Ukraine by siding with Sweden. In 1709. And that needs to be portrayed properly. There's a lack of nuance in how things are portrayed. 
+## History is written by the victors
+
+History is always written by the victors, and those of you with A, good eyesight, and B, very good knowledge of geography, will notice that this picture, which is [uploaded to Wikimedia](https://de.wikipedia.org/wiki/Datei:Flag_map_of_Russia_(2014%E2%80%932022).svg), is portraying Crimea as a part of Russia. Let's hope that victory doesn't happen. 
+
+### Contrasting Finnish and Ukrainian nationalism portrayal 
+
+It's a very different situation if you look at how Finland is portrayed on Wikipedia and Ukraine. So if you look at nationalism, in Finland it's something where we sort of pat ourselves on the shoulder, and __that is reflected upon Wikipedia__ regardless of which language we're portrayed in. 
+
+In Finland, nationalism in the 1800s is _national awakening_. It's the Russian eagle that tries to rob us of rule of law. And we have great poets and great composers, painters, and we did honorable resistance against Russia in the 19th century. 
+
+In Ukraine, well, they had nationalism too, but that was pogroms, and it was the root of Nazism and violence and lots of dissonance. 
+
+Yet it's the same national awakening that happened in Ukraine and in Finland, great poets, painters, resistance and all. Only we in Finland didn't lose, they in Ukraine did. 
+
+On top, most Ukrainians of the 1800s are classified as Russians in Wikipedia. I am happy to note that no Finns of that era are classified as Russians. 
+
+## Correcting the portrayal is a form of cultural self defense
+
+The way to correct this is cultural self-defense, at less than 0.1% of the cost of the military expense now used to fix stuff that we screwed up. And I still remind you that history is not over yet. And this is [__Projekt Kateryna__](https://projektkateryna.org), named after a painting by __Taras Shevchenko__, which is trying to rectify things by, and this is an expression, _decolonization of Ukrainian history in Wikipedia_.
+
+So examples of this. Wikipedia has partial truths. It's not blatant lies. And those of you very interested in history might know that there's a guy called Ivan Mazepa who sided with us, being the Nordics, the Scandinavians, in Poltava, 1709. Well, it's still being fought over in Ukraine, whether he betrayed Russia or whether his colleagues betrayed Ukraine by siding with Sweden. In 1709. And that needs to be portrayed properly. There's a lack of nuance in how things are portrayed. 
 
 14: Here there's a picture also from Wikipedia Foundation about a Viking named Rurik, who was the person who founded in 1870. Well, what exactly did he found? Was it Russia? Was it Kiev? Was it Ukraine? And these things are a form of propaganda by a thousand cuts, because it's not a question of fixing one thing, it's all of the things how Ukraine, in this case, is portrayed on Wikipedia.
 
