@@ -33,7 +33,7 @@ Indeed, my goal is to save the world by feeding the AI dragon with unbiased open
 
 I'm a dual citizen of both my native Finland, and Germany, and over the years, I've noted that Finland hasn't properly been represented in open data. Finland is a country with two languages, and I've seen that Swedish Finland hasn't been sufficiently described. 
 
-You might know [Swedish Finland](https://en.wikipedia.org/wiki/Swedish-speaking_population_of_Finland) by two of its representatives, [_Linus Torvalds_](https://en.wikipedia.org/Linus_Torvalds), the father of Linux, and [_Alexander Stubb_](https://en.wikipedia.org/Alexander_Stubb), our current president. And I founded a project to fix this in 2017 called [__Projekt Fredrika__](https://projektfredrika.fi). 
+You might know [Swedish Finland](https://en.wikipedia.org/wiki/Swedish-speaking_population_of_Finland) by two of its representatives, [_Linus Torvalds_](https://en.wikipedia.org/wiki/Linus_Torvalds), the father of Linux, and [_Alexander Stubb_](https://en.wikipedia.org/wiki/Alexander_Stubb), our current president. And I founded a project to fix this in 2017 called [__Projekt Fredrika__](https://projektfredrika.fi). 
 
 And that has given the background for the much larger scope of not just saving little Swedish Finland, but saving the world. 
 
@@ -59,7 +59,7 @@ With hindsight, we had all the foresight needed to have prevented that happening
 
 One of the first alarm bells was in __2008__, when __Georgia__ was attacked by Russia. Our reaction: "_Well, that's sort of far away. And have you been to Georgia? I don't know where it is. Perhaps it's not important._" There were few exceptions to the general attitude, which was, "_ah, these alarm bells are not important_". And one of those exceptions happened to be Finland's then foreign secretary, Alexander Stubb, now our president. 
 
-There were other alarm bells in __2013__ in the Ukraine. In Ukraine, __Euromaidan__ should have been a lesson for all of us who didn't do our homework when learning about the history of Ukraine to see that they consider themselves to be part of Europe. We didn't do our homework. And then in __2014__, when little green men came to __Crimea__, the alarm bells still stayed too silent, and __Angela Merkel__ played the role of __Neville Chamberlain__, trying to appease dictatorship by presuming that common good would be a priority for them. It wasn't. 
+There were other alarm bells in __2013__ in the Ukraine. In Ukraine, __Euromaidan__ should have been a lesson for all of us who didn't do our homework when learning about the history of Ukraine to see that they consider themselves to be part of Europe. We didn't do our homework. And then in __2014__, when little green men came to __Crimea__, the alarm bells still stayed too silent, and _Angela Merkel_ played the role of _Neville Chamberlain_, trying to appease dictatorship by presuming that common good would be a priority for them. It wasn't. 
 
 ### Finally in 2022, alarms went off, but only slowly 
 
@@ -93,9 +93,9 @@ On top, most Ukrainians of the 1800s are classified as Russians in Wikipedia. I 
 
 The way to correct this is cultural self-defense, at less than 0.1% of the cost of the military expense now used to fix stuff that we screwed up. And I still remind you that history is not over yet. And this is [__Projekt Kateryna__](https://projektkateryna.org), named after a painting by __Taras Shevchenko__, which is trying to rectify things by, and this is an expression, _decolonization of Ukrainian history in Wikipedia_.
 
-So examples of this. Wikipedia has partial truths. It's not blatant lies. And those of you very interested in history might know that there's a guy called [__Ivan Mazepa__](https://wikipedia.org/en/Ivan_Mazepa) who sided with "us", the Nordics, the Scandinavians, in the [_Battle of Poltava_](https://en.wikipedia.org/wiki/Battle_of_Poltava), 1709. Well, it's still being fought over in Ukraine, whether Mazepa betrayed Russia – or whether his colleagues betrayed Ukraine – by siding with Sweden. In 1709. Strong unresolved feelings need facts to be portrayed properly. Now, there's a lack of nuance in how facts related to the Ukrainian nation are portrayed. 
+So examples of this. Wikipedia has partial truths. It's not blatant lies. And those of you very interested in history might know that there's a guy called [__Ivan Mazepa__](https://en.wikipedia.org/wiki/Ivan_Mazepa) who sided with "us", the Nordics, the Scandinavians, in the [_Battle of Poltava_](https://en.wikipedia.org/wiki/Battle_of_Poltava), 1709. Well, it's still being fought over in Ukraine, whether Mazepa betrayed Russia – or whether his colleagues betrayed Ukraine – by siding with Sweden. In 1709. Strong unresolved feelings need facts to be portrayed properly. Now, there's a lack of nuance in how facts related to the Ukrainian nation are portrayed. 
 
-Here's a picture, also from Wikipedia Foundation, about a Viking named [__Rurik__](https://en.wikipedia.org/Rurik), who was the person who in A.D. 870 founded ... well, what exactly did he found? Was it Russia? Was it Kiev? Was it Ukraine? 
+Here's a picture, also from Wikipedia Foundation, about a Viking named [__Rurik__](https://en.wikipedia.org/wiki/Rurik), who was the person who in A.D. 870 founded ... well, what exactly did he found? Was it Russia? Was it Kiev? Was it Ukraine? 
 
 Currently, the portrayal of Ukrainian history is frequently a form of Russian propaganda by a thousand cuts. It's not a question of fixing one Wikipedia article, it's all of the articles where Ukraine, in this case, is portrayed on Wikipedia.
 
