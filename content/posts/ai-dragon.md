@@ -14,8 +14,6 @@ _build:
   render: true
 ---
 
-# Saving the world by feeding the Al Dragon with unbiased open data
-
 _Talk given by Kaj Arnö on 4 February 2025 at the [State of Open Conference 25](https://stateofopencon.com/) (SOOCon) in London._
 
 {{< youtube b1uJsIhAk-4 >}}
@@ -23,11 +21,9 @@ _Talk given by Kaj Arnö on 4 February 2025 at the [State of Open Conference 25]
 * Webinar recording on youtube: https://youtu.be/b1uJsIhAk-4
 * Slides: [Google Slides](https://docs.google.com/presentation/d/1Op1JVgcYdjRPgUCJEVtdK5Cp7c8PsDhSGE0d7rt4-5k/edit#slide=id.p1)
 
-## Moderator
+## Moderator intro
 
-Okay, welcome back everyone to the Open Data Track. As a reminder, this is the Open Data Track. If you're expecting AI, open source, or an entirely different conference, you're in the wrong place. But if you are here for open data, then you are definitely in the right place. 
-
-We have an amazing talk from a fantastic speaker coming up. This is Saving the World by Feeding the AI Dragon with Unbiased Open Data, a subject which I am sure we're all incredibly interested in. Please give a very warm round of applause to Kaj. 
+_We have an amazing talk from a fantastic speaker coming up. This is Saving the World by Feeding the AI Dragon with Unbiased Open Data, a subject which I am sure we're all incredibly interested in. Please give a very warm round of applause to Kaj._ 
 
 ## Introduction
 
@@ -35,9 +31,9 @@ Indeed, my goal is to save the world by feeding the AI dragon with unbiased open
 
 ## Background: Finland, a country with two languages and cultures
 
-I'm a dual citizen of both Finland, my native Finland, and Germany, and in that process I've noted that Finland isn't properly, or hasn't properly been represented in open data. Finland is a country with two languages, and I noted that Swedish Finland hasn't been sufficiently described. 
+I'm a dual citizen of both my native Finland, and Germany, and over the years, I've noted that Finland hasn't properly been represented in open data. Finland is a country with two languages, and I've seen that Swedish Finland hasn't been sufficiently described. 
 
-You might know [Swedish Finland](https://en.wikipedia.org/wiki/Swedish-speaking_population_of_Finland) by two of its representatives, _Linus Torvalds_, the father of Linux, and _Alexander Stubb_, our current president. And I founded a project to fix this in 2017 called [__Projekt Fredrika__](https://projektfredrika.fi). 
+You might know [Swedish Finland](https://en.wikipedia.org/wiki/Swedish-speaking_population_of_Finland) by two of its representatives, [_Linus Torvalds_](https://en.wikipedia.org/Linus_Torvalds), the father of Linux, and [_Alexander Stubb_](https://en.wikipedia.org/Alexander_Stubb), our current president. And I founded a project to fix this in 2017 called [__Projekt Fredrika__](https://projektfredrika.fi). 
 
 And that has given the background for the much larger scope of not just saving little Swedish Finland, but saving the world. 
 
