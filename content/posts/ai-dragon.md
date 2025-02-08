@@ -14,9 +14,10 @@ _build:
   render: true
 ---
 
-Talk given by Kaj Arnö on 4 February 2025 at the State of Open Conference 25 (SOOCon) in London.
-
 # Saving the world by feeding the Al Dragon with unbiased open data
+
+_Talk given by Kaj Arnö on 4 February 2025 at the [State of Open Conference 25](https://stateofopencon.com/) (SOOCon) in London._
+
 {{< youtube b1uJsIhAk-4 >}}
 
 * Webinar recording on youtube: https://youtu.be/b1uJsIhAk-4
@@ -86,9 +87,9 @@ It's a very different situation if you look at how Finland is portrayed on Wikip
 
 In Finland, nationalism in the 1800s is _national awakening_. It's the Russian eagle that tries to rob us of rule of law. And we have great poets and great composers, painters, and we did honorable resistance against Russia in the 19th century. 
 
-In Ukraine, well, they had nationalism too, but that was pogroms, and it was the root of Nazism and violence and lots of dissonance. 
+In Ukraine, well, according to the spirit of many Wikipedia articles on Ukraine in different languages, they had nationalism too, but that was pogroms, and it was the root of Nazism and violence and lots of dissonance. 
 
-Yet it's the same national awakening that happened in Ukraine and in Finland, great poets, painters, resistance and all. Only we in Finland didn't lose, they in Ukraine did. 
+Yet __it's the same national awakening that happened in Ukraine and in Finland__: great poets, painters, resistance and all. Only we in Finland didn't lose, they in Ukraine did. 
 
 On top, most Ukrainians of the 1800s are classified as Russians in Wikipedia. I am happy to note that no Finns of that era are classified as Russians. 
 
