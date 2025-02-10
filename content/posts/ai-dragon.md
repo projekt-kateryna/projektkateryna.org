@@ -42,7 +42,6 @@ And that has given the background for the much larger scope of not just saving l
 ## Background: What is MariaDB, the relational database?
 
 ![MariaDB](/images/MariaDB_Foundation_logo.jpg#floatright)
-![MariaDB](/images/slide_mariadb.jpg#floatright)
 
 As for [MariaDB](https://en.wikipedia.org/wiki/MariaDB), it's an open source relational database management system, and that's the reason why I am at Open UK. But for the purposes of this presentation, there's only three things I'd like you to know about MariaDB. 
 
