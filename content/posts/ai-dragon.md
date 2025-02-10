@@ -91,9 +91,9 @@ History is always written by the victors, and those of you with A, good eyesight
 
 ### Contrasting Finnish and Ukrainian nationalism portrayal 
 
-It's a very different situation if you look at how Finland is portrayed on Wikipedia and Ukraine. So if you look at nationalism, in Finland it's something where we sort of pat ourselves on the shoulder, and __that is reflected upon Wikipedia__ regardless of which language we're portrayed in. 
-
 ![Finnish nationalism](/images/Suomineito_(Isto).jpg#floatleft)
+
+It's a very different situation if you look at how Finland is portrayed on Wikipedia and Ukraine. So if you look at nationalism, in Finland it's something where we sort of pat ourselves on the shoulder, and __that is reflected upon Wikipedia__ regardless of which language we're portrayed in. 
 
 In Finland, nationalism in the 1800s is _national awakening_. It's the Russian eagle that tries to rob us of rule of law. And we have great poets and great composers, painters, and we did honorable resistance against Russia in the 19th century. 
 
