@@ -42,7 +42,7 @@ And that has given the background for the much larger scope of not just saving l
 ## Background: What is MariaDB, the relational database?
 
 ![MariaDB](/images/MariaDB_Foundation_logo.jpg#floatright)
-![MariaDB](/images//slide_mariadb.jpg#floatright)
+![MariaDB](/images/slide_mariadb.jpg#floatright)
 
 As for [MariaDB](https://en.wikipedia.org/wiki/MariaDB), it's an open source relational database management system, and that's the reason why I am at Open UK. But for the purposes of this presentation, there's only three things I'd like you to know about MariaDB. 
 
@@ -76,7 +76,7 @@ There were other alarm bells in __2013__ in the Ukraine. In Ukraine, __Euromaida
 
 So in __2022__, the armbells then really did go off, but very late and very slowly and very partially. The reason for this is __our lack of understanding of history__ through three centuries of successful portrayal of Ukraine as a non-country, non-language, non-culture. "_Ukraine is probably a part of Russia, isn't it?_" Ukraine was __outside the general education__ in Western Europe. 
 
-![Claims](/slide_claims.jpg#floatright)
+![Claims](/images/slide_claims.jpg#floatright)
 
 ## In hindsight, we had all ingredients for foresight
 
@@ -173,7 +173,7 @@ I think most organisations that train their dragons are only thankful for the cr
 
 ### How can anybody in this room help in making this happen?
 
-![How to help](/slide_howtohelp.jpg#floatright)
+![How to help](/images/slide_howtohelp.jpg#floatright)
 
 Q: What are the practical steps that anybody in this room can do to help me organise this? 
 
