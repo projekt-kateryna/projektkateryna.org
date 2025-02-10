@@ -71,8 +71,6 @@ There were other alarm bells in __2013__ in the Ukraine. In Ukraine, __Euromaida
 
 ### Finally in 2022, alarms went off, but only slowly 
 
-![Bucha](/images/Bucha._Faces_of_War._-_Ukraine_War_Photo_Exhibition_2023_(52703004165).jpg#floatleft)
-
 So in __2022__, the armbells then really did go off, but very late and very slowly and very partially. The reason for this is __our lack of understanding of history__ through three centuries of successful portrayal of Ukraine as a non-country, non-language, non-culture. "_Ukraine is probably a part of Russia, isn't it?_" Ukraine was __outside the general education__ in Western Europe. 
 
 ![Claims](/images/slide_claims.jpg#floatright)
@@ -115,6 +113,8 @@ So examples of this. Wikipedia has partial truths. It's not blatant lies. And th
 Here's a picture, also from Wikipedia Foundation, about a Viking named [__Rurik__](https://en.wikipedia.org/wiki/Rurik), who was the person who in A.D. 870 founded ... well, what exactly did he found? Was it Russia? Was it Kiev? Was it Ukraine? 
 
 Currently, the portrayal of Ukrainian history is frequently a form of Russian propaganda by a thousand cuts. It's not a question of fixing one Wikipedia article, it's all of the articles where Ukraine, in this case, is portrayed on Wikipedia.
+
+![Bucha](/images/Bucha._Faces_of_War._-_Ukraine_War_Photo_Exhibition_2023_(52703004165).jpg#floatleft)
 
 ### The final consequence of misrepresented history can be: War
 
