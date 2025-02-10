@@ -181,7 +181,7 @@ A: It is to __identify the people__ who have either __plentiful money__ or __con
 
 And I think it should be self-evident. I am searching for the right people to talk to. So if you know about whom I should be talking to, please use the email address and [my LinkedIn address](https://linkedin.com/in/kajarno/) on the slides there and help by connecting. 
 
-### Who defines Neutral Point of Viee
+### Who defines Neutral Point of View
 
 Q: The question is: how do we define neutral point of view? 
 
