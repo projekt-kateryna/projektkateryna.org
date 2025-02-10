@@ -83,16 +83,17 @@ My two central claims around this is that, in hindsight, had the West reacted pr
 
 With the end outcome that military expenditure by the West is now in the hundreds of billions of whatever currency units, not to speak of __a million lost human lives__. But, tell you what, history isn't over yet. This isn't the last time when such things can happen. __Foresight is still needed__. 
 
-## History is written by the victors
+![Russia + Crimea](/images/Flag_map_of_Russia_(2014–2022).svg.jpg#floatright)
 
-![Russia + Crimea](/images/Flag_map_of_Russia_(2014–2022).svg.jpg#floatleft)
+## History is written by the victors
 
 History is always written by the victors, and those of you with A, good eyesight, and B, very good knowledge of geography, will notice that this picture, which is [uploaded to Wikimedia](https://de.wikipedia.org/wiki/Datei:Flag_map_of_Russia_(2014%E2%80%932022).svg), is portraying Crimea as a part of Russia. Let's hope that victory doesn't happen. 
 
 ### Contrasting Finnish and Ukrainian nationalism portrayal 
 
-![Finnish nationalism](/images/Suomineito_(Isto).jpg#floatright)
 It's a very different situation if you look at how Finland is portrayed on Wikipedia and Ukraine. So if you look at nationalism, in Finland it's something where we sort of pat ourselves on the shoulder, and __that is reflected upon Wikipedia__ regardless of which language we're portrayed in. 
+
+![Finnish nationalism](/images/Suomineito_(Isto).jpg#floatleft)
 
 In Finland, nationalism in the 1800s is _national awakening_. It's the Russian eagle that tries to rob us of rule of law. And we have great poets and great composers, painters, and we did honorable resistance against Russia in the 19th century. 
 
