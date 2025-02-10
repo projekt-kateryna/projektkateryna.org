@@ -64,11 +64,17 @@ With hindsight, we had all the foresight needed to have prevented that happening
 
 ### There were recent alarm bells – but they went unheard
 
+![Alexander Stubb](/images/Alexander_Stubb_Oct,_2014.jpg#floatleft)
+
 One of the first alarm bells was in __2008__, when __Georgia__ was attacked by Russia. Our reaction: "_Well, that's sort of far away. And have you been to Georgia? I don't know where it is. Perhaps it's not important._" There were few exceptions to the general attitude, which was, "_ah, these alarm bells are not important_". And one of those exceptions happened to be Finland's then foreign secretary, Alexander Stubb, now our president. 
+
+![Euromaidan](/images/1600px-2013-12-11._Штурм_Майдана_14.jpg#floatright)
 
 There were other alarm bells in __2013__ in the Ukraine. In Ukraine, __Euromaidan__ should have been a lesson for all of us who didn't do our homework when learning about the history of Ukraine to see that they consider themselves to be part of Europe. We didn't do our homework. And then in __2014__, when little green men came to __Crimea__, the alarm bells still stayed too silent, and _Angela Merkel_ played the role of _Neville Chamberlain_, trying to appease dictatorship by presuming that common good would be a priority for them. It wasn't. 
 
 ### Finally in 2022, alarms went off, but only slowly 
+
+![Bucha](/images/Bucha._Faces_of_War._-_Ukraine_War_Photo_Exhibition_2023_(52703004165).jpg#floatleft)
 
 So in __2022__, the armbells then really did go off, but very late and very slowly and very partially. The reason for this is __our lack of understanding of history__ through three centuries of successful portrayal of Ukraine as a non-country, non-language, non-culture. "_Ukraine is probably a part of Russia, isn't it?_" Ukraine was __outside the general education__ in Western Europe. 
 
@@ -82,10 +88,13 @@ With the end outcome that military expenditure by the West is now in the hundred
 
 ## History is written by the victors
 
+![Russia + Crimea](/images/Flag_map_of_Russia_(2014–2022).svg.jpg#floatleft)
+
 History is always written by the victors, and those of you with A, good eyesight, and B, very good knowledge of geography, will notice that this picture, which is [uploaded to Wikimedia](https://de.wikipedia.org/wiki/Datei:Flag_map_of_Russia_(2014%E2%80%932022).svg), is portraying Crimea as a part of Russia. Let's hope that victory doesn't happen. 
 
 ### Contrasting Finnish and Ukrainian nationalism portrayal 
 
+![Finnish nationalism](/images/Suomineito_(Isto).jpg#floatright)
 It's a very different situation if you look at how Finland is portrayed on Wikipedia and Ukraine. So if you look at nationalism, in Finland it's something where we sort of pat ourselves on the shoulder, and __that is reflected upon Wikipedia__ regardless of which language we're portrayed in. 
 
 In Finland, nationalism in the 1800s is _national awakening_. It's the Russian eagle that tries to rob us of rule of law. And we have great poets and great composers, painters, and we did honorable resistance against Russia in the 19th century. 
@@ -99,6 +108,8 @@ On top, most Ukrainians of the 1800s are classified as Russians in Wikipedia. I 
 ## Correcting the portrayal is a form of cultural self defense
 
 The way to correct this is cultural self-defense, at less than 0.1% of the cost of the military expense now used to fix stuff that we screwed up. And I still remind you that history is not over yet. And this is [__Projekt Kateryna__](https://projektkateryna.org), named after a painting by __Taras Shevchenko__, which is trying to rectify things by, and this is an expression, _decolonization of Ukrainian history in Wikipedia_.
+
+![Rurik](/images/Rurik_Prizvanievaryagov.jpg#floatright)
 
 So examples of this. Wikipedia has partial truths. It's not blatant lies. And those of you very interested in history might know that there's a guy called [__Ivan Mazepa__](https://en.wikipedia.org/wiki/Ivan_Mazepa) who sided with "us", the Nordics, the Scandinavians, in the [_Battle of Poltava_](https://en.wikipedia.org/wiki/Battle_of_Poltava), 1709. Well, it's still being fought over in Ukraine, whether Mazepa betrayed Russia – or whether his colleagues betrayed Ukraine – by siding with Sweden. In 1709. Strong unresolved feelings need facts to be portrayed properly. Now, there's a lack of nuance in how facts related to the Ukrainian nation are portrayed. 
 
@@ -125,6 +136,8 @@ And the __technology__ exists. So Wikipedia exists. Vector databases exist. AI, 
 ### We miss the institution to supply the Neutral Point of View
 
 So what is missing? Well, what's missing is that the collective West, to use an expression favored in Russia, is missing an institution with the task to feed this AI dragon with neutral point of view. And to provide a __vaccine against the propaganda__ that exists, all across the partial truth, by curating neutral point of view data into Wikipedia. 
+
+![Denis Diderot](/images/Denis_Diderot_by_Louis-Michel_van_Loo.jpg#floatright)
 
 I think such an institution should be named after [__Denis Diderot__](https://en.wikipedia.org/Denis_Diderot), who's the guy who originated the concept of an encyclopedia. 
 
