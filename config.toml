@@ -1,4 +1,4 @@
-baseURL = 'https://projektkateryna.netlify.app/'
+baseURL = 'https://projekt-kateryna.netlify.app/'
 languageCode = 'en-us'
 title = 'Projekt Kateryna'
 theme = 'hugo-xmag'

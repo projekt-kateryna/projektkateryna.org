@@ -1,3 +1,3 @@
 # Projekt Kateryna website
 
-Website currently live at [projektkateryna.netlify.app](https://projektkateryna.netlify.app)
+Website currently live at [projekt-kateryna.netlify.app](https://projekt-kateryna.netlify.app)
