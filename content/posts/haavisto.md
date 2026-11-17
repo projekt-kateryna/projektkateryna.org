@@ -9,6 +9,4 @@ images: ["/images/haavisto-arno-2023-08-800px.jpg"]
 showimage: true
 ---
 
-Does Projekt Kateryna make sense from a politician's standpoint? We met with Finland's previous Foreign Minister Pekka Haavisto earlier in the week, to seek for validation and advice. 
-
-We got valuable input and data points, which we hope will give Kateryna significantly more momentum. And we left with the feeling that it's a resounding "yes!" – the goals of Projekt Kateryna make a lot of sense in the world we live in.
+In August 2023 we met Finland's former Foreign Minister Pekka Haavisto to present Projekt Kateryna and ask for his advice. We are grateful for his time and valuable input.

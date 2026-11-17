@@ -6,15 +6,6 @@
 {{ template "_internal/opengraph.html" . }}
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-E4R1XTW3DC"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-E4R1XTW3DC');
-</script>
-
     <title>{{.Site.Params.Title}}{{ with .Title }} | {{ . }}{{ end }}</title>
     <link rel="stylesheet" href="{{ "css/style.css" | relURL }}" />
     <link rel="stylesheet" href="{{ "css/fonts.css" | relURL }}" />

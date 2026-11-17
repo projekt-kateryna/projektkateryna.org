@@ -1,10 +1,9 @@
-baseURL = 'https://projektkateryna.org/'
+baseURL = 'https://projektkateryna.netlify.app/'
 languageCode = 'en-us'
 title = 'Projekt Kateryna'
 theme = 'hugo-xmag'
 buildDrafts = false
 paginate = 100
-googleAnalytics = 'G-E4R1XTW3DC'
 
 [permalinks]
   post = '/:filename/'

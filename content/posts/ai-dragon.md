@@ -1,5 +1,5 @@
 ---
-title: "Saving the world by feeding the Al Dragon with unbiased open data" 
+title: "Saving the world by feeding the AI Dragon with unbiased open data" 
 date: 2025-02-06T08:00:00+03:00
 draft: false
 url: "/saving-world-with-ai-dragon"
@@ -20,12 +20,8 @@ _Talk given by Kaj Arnö on 4 February 2025 at the [State of Open Conference 25]
 
 ![The AI Dragon](/images/Dragon_on_the_Dragon_Bridge_(Ljubljana).jpg#floatright)
 
-* Webinar recording on youtube: https://youtu.be/b1uJsIhAk-4
+* Talk recording on YouTube: https://youtu.be/b1uJsIhAk-4
 * Slides: [Google Slides](https://docs.google.com/presentation/d/1Op1JVgcYdjRPgUCJEVtdK5Cp7c8PsDhSGE0d7rt4-5k/edit#slide=id.p1)
-
-## Moderator intro
-
-_We have an amazing talk from a fantastic speaker coming up. This is Saving the World by Feeding the AI Dragon with Unbiased Open Data, a subject which I am sure we're all incredibly interested in. Please give a very warm round of applause to Kaj._ 
 
 ## Introduction
 
@@ -57,7 +53,7 @@ The 24th of February, three years ago, took the world by surprise.
 
 It shouldn't have. 
 
-With hindsight, we had all the foresight needed to have prevented that happening in the Ukraine. And this foresight we had had for centuries, but it's not as there hadn't been extra alarm bells ringing in the last decades. 
+With hindsight, we had all the foresight needed to have prevented that happening in Ukraine. And this foresight we had had for centuries, but it's not as there hadn't been extra alarm bells ringing in the last decades. 
 
 ### There were recent alarm bells – but they went unheard
 
@@ -67,11 +63,11 @@ One of the first alarm bells was in __2008__, when __Georgia__ was attacked by R
 
 ![Euromaidan](/images/1600px-2013-12-11._Штурм_Майдана_14.jpg#floatright)
 
-There were other alarm bells in __2013__ in the Ukraine. In Ukraine, __Euromaidan__ should have been a lesson for all of us who didn't do our homework when learning about the history of Ukraine to see that they consider themselves to be part of Europe. We didn't do our homework. And then in __2014__, when little green men came to __Crimea__, the alarm bells still stayed too silent, and _Angela Merkel_ played the role of _Neville Chamberlain_, trying to appease dictatorship by presuming that common good would be a priority for them. It wasn't. 
+There were other alarm bells in __2013__ in Ukraine. There, __Euromaidan__ should have been a lesson for all of us who didn't do our homework when learning about the history of Ukraine to see that they consider themselves to be part of Europe. We didn't do our homework. And then in __2014__, when little green men came to __Crimea__, the alarm bells still stayed too silent, and _Angela Merkel_ played the role of _Neville Chamberlain_, trying to appease dictatorship by presuming that common good would be a priority for them. It wasn't. 
 
 ### Finally in 2022, alarms went off, but only slowly 
 
-So in __2022__, the armbells then really did go off, but very late and very slowly and very partially. The reason for this is __our lack of understanding of history__ through three centuries of successful portrayal of Ukraine as a non-country, non-language, non-culture. "_Ukraine is probably a part of Russia, isn't it?_" Ukraine was __outside the general education__ in Western Europe. 
+So in __2022__, the alarm bells then really did go off, but very late and very slowly and very partially. The reason for this is __our lack of understanding of history__ through three centuries of successful portrayal of Ukraine as a non-country, non-language, non-culture. "_Ukraine is probably a part of Russia, isn't it?_" Ukraine was __outside the general education__ in Western Europe. 
 
 ![Claims](/images/slide_claims.jpg#floatright)
 
@@ -81,7 +77,7 @@ My two central claims around this is that, in hindsight, had the West reacted pr
 
 ### Now, the cost of lack of general education is hundreds of billions €/$/£
 
-With the end outcome that military expenditure by the West is now in the hundreds of billions of whatever currency units, not to speak of __a million lost human lives__. But, tell you what, history isn't over yet. This isn't the last time when such things can happen. __Foresight is still needed__. 
+With the end outcome that military expenditure by the West is now in the hundreds of billions of whatever currency units, not to speak of __around a million killed and wounded__. But, tell you what, history isn't over yet. This isn't the last time when such things can happen. __Foresight is still needed__. 
 
 ![Russia + Crimea](/images/Flag_map_of_Russia_(2014–2022).svg.jpg#floatright)
 
@@ -105,13 +101,13 @@ On top, most Ukrainians of the 1800s are classified as Russians in Wikipedia. I 
 
 ## Correcting the portrayal is a form of cultural self defense
 
-The way to correct this is cultural self-defense, at less than 0.1% of the cost of the military expense now used to fix stuff that we screwed up. And I still remind you that history is not over yet. And this is [__Projekt Kateryna__](https://projektkateryna.org), named after a painting by __Taras Shevchenko__, which is trying to rectify things by, and this is an expression, _decolonization of Ukrainian history in Wikipedia_.
+The way to correct this is cultural self-defense, at less than 0.1% of the cost of the military expense now used to fix stuff that we screwed up. And I still remind you that history is not over yet. And this is [__Projekt Kateryna__](https://projektkateryna.netlify.app), named after a painting by __Taras Shevchenko__, which is trying to rectify things by, and this is an expression, _decolonization of Ukrainian history in Wikipedia_.
 
 ![Rurik](/images/Rurik_Prizvanievaryagov.jpg#floatright)
 
 So examples of this. Wikipedia has partial truths. It's not blatant lies. And those of you very interested in history might know that there's a guy called [__Ivan Mazepa__](https://en.wikipedia.org/wiki/Ivan_Mazepa) who sided with "us", the Nordics, the Scandinavians, in the [_Battle of Poltava_](https://en.wikipedia.org/wiki/Battle_of_Poltava), 1709. Well, it's still being fought over in Ukraine, whether Mazepa betrayed Russia – or whether his colleagues betrayed Ukraine – by siding with Sweden. In 1709. Strong unresolved feelings need facts to be portrayed properly. Now, there's a lack of nuance in how facts related to the Ukrainian nation are portrayed. 
 
-Here's a picture, also from Wikipedia Foundation, about a Viking named [__Rurik__](https://en.wikipedia.org/wiki/Rurik), who was the person who in A.D. 870 founded ... well, what exactly did he found? Was it Russia? Was it Kiev? Was it Ukraine? 
+Here's a picture, also from Wikimedia Commons, of a Viking named [__Rurik__](https://en.wikipedia.org/wiki/Rurik), who according to the Primary Chronicle came to rule Novgorod in A.D. 862, and who is said to have founded ... well, what exactly did he found? Was it Russia? Was it Kyiv? Was it Ukraine? 
 
 Currently, the portrayal of Ukrainian history is frequently a form of Russian propaganda by a thousand cuts. It's not a question of fixing one Wikipedia article, it's all of the articles where Ukraine, in this case, is portrayed on Wikipedia.
 
@@ -139,15 +135,15 @@ So what is missing? Well, what's missing is that the collective West, to use an 
 
 ![Denis Diderot](/images/Denis_Diderot_by_Louis-Michel_van_Loo.jpg#floatright)
 
-I think such an institution should be named after [__Denis Diderot__](https://en.wikipedia.org/Denis_Diderot), who's the guy who originated the concept of an encyclopedia. 
+I think such an institution should be named after [__Denis Diderot__](https://en.wikipedia.org/wiki/Denis_Diderot), who's the guy who originated the concept of an encyclopedia. 
 
-The question then would be, who should form this organisation? __Where should it be based__? Should it be in your wonderful country here in __the UK__? I think you have a good track record of influencing world history, or at least attempting at it – you were one of the first to realise what was happening in Kiev in Ukraine in 2022. 
+The question then would be, who should form this organisation? __Where should it be based__? Should it be in your wonderful country here in __the UK__? I think you have a good track record of influencing world history, or at least attempting at it – you were one of the first to realise what was happening in Kyiv in 2022. 
 
 I think __the EU__ very much has it as its interest for this to happen. 
 
 ### First they came ...
 
-If we don't do anything about this, the old adage will apply: "_[First they came](https://en.wikipedia.org/wiki/First_They_Came) for the communists. I'm not one, so I didn't do anything. Then they came for the homosexuals. Well, I'm not one, so I didn't do anything about it. Then they came for the Jews. Well, I'm not a Jew, so I didn't do anything about it. Now they came for me, and there is no-one left to defend me._" 
+If we don't do anything about this, the old adage will apply. As [Martin Niemöller](https://en.wikipedia.org/wiki/Martin_Niem%C3%B6ller) put it: "_[First they came](https://en.wikipedia.org/wiki/First_They_Came) for the socialists, and I did not speak out – because I was not a socialist. Then they came for the trade unionists, and I did not speak out – because I was not a trade unionist. Then they came for the Jews, and I did not speak out – because I was not a Jew. Then they came for me – and there was no one left to speak for me._"
 
 That will happen again. It will not stop at Ukraine. 
 
@@ -187,10 +183,7 @@ Q: The question is: how do we define neutral point of view?
 
 A: My happy answer is: we don't have to. [__Wikimedia Foundation has already defined NPOV__](https://en.wikipedia.org/wiki/Wikipedia:Neutral_point_of_view) and Wikipedia already has a mechanism for mediating between how things are being described. 
 
-There is a mechanism that has been in place for describing Israel and Palestine for years and the equilibrium has been found. So that's a problem that is already solved and outside the scope of the feeding the AI dragon problem. 
+Wikipedia has long-standing processes for handling even the most contested topics, such as Israel–Palestine – imperfect, but working. So that's a problem that is already addressed and outside the scope of the feeding the AI dragon problem. 
 
 So we just need to feed the neutral point of view information. And if we feed it with something that isn't neutral, we will be reprimanded and it will not stay in Wikipedia. So there is this control mechanism. 
 
-## Moderator conclusion
-
-_Thank you. That was an absolutely fantastic talk._ 

@@ -10,7 +10,7 @@ images: ["/images/ukflag.jpg"]
 showimage: true
 ---
 
-Three centuries of systematic Russian condescension towards Ukraine have paved the way for Russia's attack on Ukraine. The Russian attitude of patronising superiority has permeated not only Russian intelligentsia and general public, but also the German, French, Scandinavian and Anglo-Saxon world, and even parts of the Slavic world. The manipulation of public opinion has culminated in the two last decades of Russian disinformation campaigns, skillfully orchestrated by Putin's troll factories.
+Three centuries of systematic Russian condescension towards Ukraine have paved the way for Russia's attack on Ukraine. The Russian attitude of patronising superiority has permeated not only Russian intelligentsia and general public, but also the German, French, Scandinavian and Anglo-Saxon world, and even parts of the Slavic world. The manipulation of public opinion has culminated in the two last decades of Russian disinformation campaigns, including state-run operations such as the [Internet Research Agency](https://en.wikipedia.org/wiki/Internet_Research_Agency).
 
 Russian disinformation is the antithesis of Wikipedia's NPOV (Neutral Point of View). Through its mission of neutrality, Wikipedia is the perfect platform for combatting disinformation. Yet, even Wikipedia is today influenced by Russian propaganda – to a different degree for different language versions.
 
@@ -18,11 +18,11 @@ The aim of Projekt Kateryna is to fix this, with a special focus on the burning 
 
 From a **Wikipedia perspective**, this is about mapping out and gradually eliminating the current Russian bias. 
 
-From a **Ukrainian** perspective, this is about **rectifying Ukraine's reputation** internationally. 
+From a **Ukrainian** perspective, this is about Ukrainian history being described **accurately and in proportion**, based on reliable sources. 
 
 From a **Polish, Baltic,** and **Finnish** perspective, this is about **learning from Ukraine**'s history of Russian oppression and acting as **role models** for how a national identity can be depicted, less distorted by centuries of Russian propaganda.
 
-For "**the collective West**", it's about creating a **safety net for democracy**, in the form of an educated general public. And it's about **finally taking responsibility** for living up to the Western values of freedom and human dignity in the foreign policy towards Ukraine, after three centuries of merely promoting self interest by not questioning the Russian imperialist view. 
+For **Western democracies**, it's about creating a **safety net for democracy**, in the form of an educated general public that can recognise disinformation. 
 
 We believe the project is not just enormous, but hard to coordinate. 
 

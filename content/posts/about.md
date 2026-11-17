@@ -10,9 +10,9 @@ categories:
 
 ## 1. Purpose
 
-### Overall political goal
+### Overall goal
 
-Make the general audience **aware** of Ukrainian history, culture and language. Fight **lack of education** and knowledge, annihilate centuries of one-sided **Russian propaganda**, create **understanding** and public **support** for the Ukrainian nation, its people, its culture and deep relations to **other European nations**. 
+Make the general audience **aware** of Ukrainian history, culture and language. Improve the neutral, well-sourced coverage of Ukraine on Wikipedia – filling gaps and correcting a long-standing **Russia-centric perspective** – so that Ukraine, its people, its culture and its deep relations to **other European nations** are better **understood**. 
 
 
 ### Method
@@ -22,9 +22,9 @@ Provide high-quality information on Ukrainian history, culture, people and langu
 
 ### Why »Projekt Kateryna»?
 
-The suggested name is a reference to the oil painting **Катерина** by Taras Shevchenko (1842) [uk.wikipedia.org/wiki/Катерина_(картина_Шевченка)](https://uk.wikipedia.org/wiki/Катерина_(картина_Шевченка)). Modelled after »Projekt Fredrika» (see [en.wikipedia.org/wiki/Wikipedia:Projekt_Fredrika](https://en.wikipedia.org/wiki/Wikipedia:Projekt_Fredrika)), we suggest a female name to be picked (as history is full enough of men anyway).
+The name is a reference to the oil painting **Катерина** by Taras Shevchenko (1842) [uk.wikipedia.org/wiki/Катерина_(картина_Шевченка)](https://uk.wikipedia.org/wiki/Катерина_(картина_Шевченка)). Like »Projekt Fredrika» (see [en.wikipedia.org/wiki/Wikipedia:Projekt_Fredrika](https://en.wikipedia.org/wiki/Wikipedia:Projekt_Fredrika)), the project carries a woman's name.
 
-We also explicitly suggest the **spelling** »Projekt Kateryna», to underline that **English is only one out of many languages** to be supported, and one whose transcription differs the most from the original Ukrainian language.
+We use the **spelling** »Projekt Kateryna», to underline that **English is only one out of many languages** to be supported, and one whose transcription differs the most from the original Ukrainian language.
 
 
 ## 2. Problem definition
@@ -37,7 +37,7 @@ Even the best of the frequently used sources of neutral information – Wikiped
 
 ### Example: The »Ukraina» article on svwp
 
-The Swedish overall Wikipedia article [Ukraina](https://sv.wikipedia.org/wiki/Ukraina) – arguably the single most influential description of Ukraine in Swedish – is heavily biased towards the Russian propagandistic description of Ukraine as "barely a state". 
+The Swedish overall Wikipedia article [Ukraina](https://sv.wikipedia.org/wiki/Ukraina) – arguably the single most influential description of Ukraine in Swedish – reflects an older, Russia-centric narrative of Ukraine as "barely a state" (as of 2023; still largely unchanged in 2026). 
 
 It has a header "The Ukrainian nationalism during the 19th and 20th century", without really describing it – except that it killed Jews. The header "Famine and industrialisation" happens to touch that "the Ukrainian culture blossomed during the 1920s with the approval of the Bolsheviks", but does not describe it.  And "The area became a national unity (partially coinciding with the language spoken in the area) only through the inception of the short-lived Ukrainian people's republic (1918-21) and then again as a Soviet republic during the 20th century".
 
@@ -45,7 +45,7 @@ What is not mentioned is a description of the nationalism, what it reacted again
 
 And going further back in history, there is no deep analysis of the battle of Poltava, no mentioning of the loyalties of Mazepa still causing controversies up to this day.
 
-There is also no mentioning of the 1872 anti-Ukrainian legislation [https://uk.wikipedia.org/wiki/Емський_указ](https://uk.wikipedia.org/wiki/Емський_указ) or other root causes of Ukrainian nationalism.
+There is also no mention of the 1876 anti-Ukrainian legislation (the Ems Ukaz) [https://uk.wikipedia.org/wiki/Емський_указ](https://uk.wikipedia.org/wiki/Емський_указ) or other root causes of Ukrainian nationalism.
 
 
 ## 3. The opportunity
@@ -58,17 +58,17 @@ While Russia's version of history is still the prevalent default even in the Ger
 
 ### There is a platform to spread the story
 
-As »Ukraine's version of history» is based on scientific reality, Wikipedia provides the perfect platform for spreading it. Wikipedia is **multi-lingual**, highly **credible** and **omnipresent**.
+As Wikipedia requires reliable, scholarly sources, current research on Ukrainian history fits its rules well. Wikipedia is **multi-lingual**, highly **credible** and **omnipresent**.
 
 
 ### The platform even scales to AI
 
-Wikipedia and in particular Wikidata is heavily relied upon by ChatGPT and other modern AI. This means that the version of reality which is in effect in Wikipedia and Wikidata is the one that affects public perception for many years to come.
+Wikipedia is among the most important training sources for ChatGPT and other large language models, and Wikidata is widely used by search engines and AI tools. This means that the version of reality which is in effect in Wikipedia and Wikidata is the one that affects public perception for many years to come.
 
 
 ### There are new, good sources
 
-The Yale lectures by **Timothy Snyder** (autumn 2022) are available as **transcripts** and eminently **quotable** as well as highly educational. They are nearly **devoid of Russian bias**, and highly **credible** in the eyes of all relevant audiences.
+**Timothy Snyder**'s Yale lecture series *The Making of Modern Ukraine* (autumn 2022) is available as **transcripts** and is highly **quotable** as well as educational. Together with peer-reviewed works such as Serhii Plokhy's *The Gates of Europe* and Andreas Kappeler's histories of Ukraine, it provides a solid base of **reliable sources**.
 
 
 ## 4. Content
@@ -114,7 +114,7 @@ The project is named after [Fredrika Runeberg](https://en.wikipedia.org/wiki/Fre
 
 - ditto for [Helsingfors](https://en.wikipedia.org/wiki/Helsingfors) (Helsinki), [Raseborg](https://en.wikipedia.org/wiki/Raseborg) (Raasepori), [Ingå](https://en.wikipedia.org/wiki/Ingå) (Inkoo) and several other smaller places 
 
-- compared material of the [Society of Swedish Literature in Finland](https://en.wikipedia.org/wiki/Society_of_Swedish_Literature_in_Finland) and incorporated it into Wikipedia: two encyclopedias with thousands of entries, digital historical photo archive with over 20 000 images, complete list of over 1000 publications 
+- compiled material from the [Society of Swedish Literature in Finland](https://en.wikipedia.org/wiki/Society_of_Swedish_Literature_in_Finland) and incorporated it into Wikipedia: two encyclopedias with thousands of entries, digital historical photo archive with over 20 000 images, complete list of over 1000 publications 
 
 - over 45000 wikidata edits
 
@@ -132,9 +132,9 @@ Finland Swedish IT-entrepreneur and columnist. He is the former Vice President o
 
 Board member of Wikimedia Finland.
 
-Has written over 20 articles on Ukraine ([https://kaj.arno.fi/ukraina/](https://kaj.arno.fi/ukraina/)), most of which appeared in Finland's oldest newspaper [Åbo Underrättelser](https://en.wikipedia.org/wiki/%C3%85bo_Underr%C3%A4ttelser). One of them ([about Lviv 2018](https://svenska.yle.fi/a/7-1298469)) was written for [Yle](https://en.wikipedia.org/wiki/Yle) ("Finland's BBC") and got translated (without asking permission) by inosmi.ru into [Называйте его как хотите, Львив, Львов или Лемберг: в этом украинском городе меньшинства всегда жили бок о бок](https://inosmi.ru/20180513/242195236.html) (with over 100 comments and nearly 50.000 reads).
+Has written over 20 articles on Ukraine ([https://kaj.arno.fi/ukraina/](https://kaj.arno.fi/ukraina/)), most of which appeared in Finland's oldest newspaper [Åbo Underrättelser](https://en.wikipedia.org/wiki/%C3%85bo_Underr%C3%A4ttelser). One of them ([about Lviv 2018](https://svenska.yle.fi/a/7-1298469)) was written for [Yle](https://en.wikipedia.org/wiki/Yle) ("Finland's BBC") and was republished in Russian translation by inosmi.ru as [Называйте его как хотите, Львив, Львов или Лемберг: в этом украинском городе меньшинства всегда жили бок о бок](https://inosmi.ru/20180513/242195236.html).
 
-Speaks five languages (Swedish, German, English, Finnish, French) and reads five more (Norwegian, Danish, Italian, Spanish, Dutch). Has elementary knowledge of Ukrainian (see Youtube video [https://www.youtube.com/watch?v=VarF_VVckEE](https://www.youtube.com/watch?v=VarF_VVckEE) – Ukrainian starting at minute 6:40 – _Виступ: Українська мета – наша мета!_). 
+Speaks Swedish, German, English, Finnish and French. Has elementary knowledge of Ukrainian (see Youtube video [https://www.youtube.com/watch?v=VarF_VVckEE](https://www.youtube.com/watch?v=VarF_VVckEE) – Ukrainian starting at minute 6:40 – _Виступ: Українська мета – наша мета!_). 
 
 Has written the original Python code for **Fredrikas lupp** ([https://github.com/projekt-fredrika/Fredrikas-Lupp](https://github.com/projekt-fredrika/Fredrikas-Lupp)) and **Voronoi** ([https://github.com/kajarnocom/voronoi](https://github.com/kajarnocom/voronoi)), two programs analysing Wikipedia contents (the second of which is named after [Вороний Георгій Феодосійович](https://uk.wikipedia.org/wiki/Вороний_Георгій_Феодосійович)).
 
@@ -145,9 +145,9 @@ Olena Yefimenko. Master of Economics. Project Manager. Since 2008, the founder, 
 
 ### Robert Silén, Technical Project Lead
 
-Robert Silén. Master of Science 2010. Robert has worked with Kaj Arnö in various roles for the past ten years. He was part of Projekt Fredrika from the beginning in 2017. His Wikipedia handle [Robertsilen](https://sv.wikipedia.org/wiki/Användardiskussion:Robertsilen) is behind most of the edits done as part of Projekt Fredrika.
+Robert Silén. Master of Science 2010. Robert has worked with Kaj Arnö in various roles since 2013. He was part of Projekt Fredrika from the beginning in 2017. His Wikipedia handle [Robertsilen](https://sv.wikipedia.org/wiki/Användare:Robertsilen) is behind most of the edits done as part of Projekt Fredrika.
 
-Robert's action bias approach complements Kaj - and this combination has proven critical to walk the talk. Robert speaks three languages fluently and grasps several more. He does basic editing, programming, etc, enough to scale whatever impact we are making with data or themes that we are working with.
+Robert speaks three languages fluently and grasps several more. He does basic editing, programming, etc, enough to scale whatever impact we are making with data or themes that we are working with.
 
 ## 7. Contact details
 

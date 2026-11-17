@@ -10,7 +10,7 @@ images: ["/images/what-is-wikipedia.png"]
 showimage: false
 ---
 
-In February 2024, Wikimedia Ukraine organized two webinars for Projekt Kateryna's participants on how to edit Ukraine on Wikipedia. The recorded videos and material (in Ukrainian) are available below.
+In February 2024, Wikimedia Ukraine organized two webinars for Projekt Kateryna's participants on how to edit Ukraine on Wikipedia. The recorded videos and material (in Ukrainian) are available below. All edits follow Wikipedia's policies on neutral point of view and reliable sources.
 
 # Workshop 1: How to present Ukraine on Wikipedia (19 February 2024)
 {{< youtube OrARjQEKNAY >}}
@@ -18,7 +18,7 @@ In February 2024, Wikimedia Ukraine organized two webinars for Projekt Kateryna'
 * Webinar recording on youtube: https://www.youtube.com/watch?v=OrARjQEKNAY
 * Presentation https://drive.google.com/file/d/15ITBhqg037G0pWkZZGhM5HO1CY_tv-cc/
 
-# Workshop 2: How to present Ukraine on Russian Wikipedia (26 February 2024)
+# Workshop 2: Editing Ukraine-related articles on Russian-language Wikipedia (26 February 2024)
 {{< youtube zvOj3V8twAo >}}
 * Webinar with Viacheslav Mamon (В'ячеслав Мамон), Head of the revision commission of the NGO "Wikimedia Ukraine", editor (Голова ревізійної комісії  ГО"Вікімедіа Україна", редактор)
 * Webinar recording on youtube: https://www.youtube.com/watch?v=zvOj3V8twAo
