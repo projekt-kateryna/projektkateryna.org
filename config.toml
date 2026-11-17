@@ -6,7 +6,7 @@ buildDrafts = false
 paginate = 100
 
 [permalinks]
-  post = '/:filename/'
+  post = '/:contentbasename/'
   categories = "/k/:title/"
 
 [params]

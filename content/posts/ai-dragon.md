@@ -8,7 +8,7 @@ categories:
   - "presentation"
 images: ["/images/Dragon_on_the_Dragon_Bridge_(Ljubljana).jpg"]
 showimage: false
-_build:
+build:
   list: true
   publishResources: true
   render: true
