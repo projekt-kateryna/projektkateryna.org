@@ -101,7 +101,7 @@ On top, most Ukrainians of the 1800s are classified as Russians in Wikipedia. I 
 
 ## Correcting the portrayal is a form of cultural self defense
 
-The way to correct this is cultural self-defense, at less than 0.1% of the cost of the military expense now used to fix stuff that we screwed up. And I still remind you that history is not over yet. And this is [__Projekt Kateryna__](https://projekt-kateryna.netlify.app), named after a painting by __Taras Shevchenko__, which is trying to rectify things by, and this is an expression, _decolonization of Ukrainian history in Wikipedia_.
+The way to correct this is cultural self-defense, at less than 0.1% of the cost of the military expense now used to fix stuff that we screwed up. And I still remind you that history is not over yet. And this is [__Projekt Kateryna__](https://projekt-kateryna.org), named after a painting by __Taras Shevchenko__, which is trying to rectify things by, and this is an expression, _decolonization of Ukrainian history in Wikipedia_.
 
 ![Rurik](/images/Rurik_Prizvanievaryagov.jpg#floatright)
 
